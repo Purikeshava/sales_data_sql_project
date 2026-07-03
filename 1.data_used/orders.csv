@@ -1,0 +1,1001 @@
+OrderID,CustomerID,ProductID,ProductName,Category,Quantity,UnitPrice,DiscountPercent,OrderDate,PaymentMethod,OrderStatus
+1001,354,5012,Winter Jacket,Clothing,5,$104.61,15,04-09-2024,UPI,Cancelled
+1002,122,5010,Cotton T-Shirt,Clothing,2,$14.96,20,26-02-2025,PayPal,Returned
+1003,425,5012,Winter Jacket,Clothing,5,$97.94,15,28-08-2024,Cash on Delivery,Cancelled
+1004,382,5009,Dumbbell Set,Sports,1,$91.66,20,05-03-2026,Credit Card,Returned
+1005,113,5016,Blender,Home & Kitchen,3,$36.05,10,16-04-2024,Cash on Delivery,Shipped
+1006,322,5020,Notebook Set,Stationery,3,$6.71,15,08-10-2023,Cash on Delivery,Delivered
+1007,68,5010,Cotton T-Shirt,Clothing,4,$14.79,10,10-03-2023,Credit Card,Processing
+1008,277,5011,Denim Jeans,Clothing,4,$38.52,0,26-12-2023,UPI,Returned
+1009,484,5017,Table Lamp,Home & Kitchen,3,$28.64,0,03-12-2023,PayPal,Processing
+1010,495,5011,Denim Jeans,Clothing,1,$38.55,0,17-08-2025,Debit Card,Cancelled
+1011,136,5018,Novel - Fiction,Books,3,$11.86,20,04-07-2023,Net Banking,Delivered
+1012,327,5015,Non-stick Pan,Home & Kitchen,3,$24.69,10,20-06-2024,UPI,Delivered
+1013,288,5008,Water Bottle,Sports,4,$12.98,10,21-02-2023,UPI,Returned
+1014,210,5008,Water Bottle,Sports,1,$12.25,15,08-08-2025,Credit Card,Shipped
+1015,121,5002,Bluetooth Headphones,Electronics,1,$43.75,5,15-09-2024,Net Banking,Shipped
+1016,357,5013,Sneakers,Clothing,4,$57.47,15,29-01-2025,Net Banking,Cancelled
+1017,251,5019,Cookbook,Books,2,$18.23,15,29-04-2025,Net Banking,Cancelled
+1018,487,5009,Dumbbell Set,Sports,1,$89.48,0,28-01-2025,Debit Card,Processing
+1019,204,5004,USB-C Cable,Electronics,3,$9.85,15,20-01-2026,UPI,Shipped
+1020,328,5004,USB-C Cable,Electronics,4,$9.70,15,07-07-2023,Net Banking,Delivered
+1021,106,5002,Bluetooth Headphones,Electronics,3,$46.81,0,13-05-2024,Credit Card,Returned
+1022,169,5007,Running Shoes,Sports,5,$67.40,20,18-03-2024,Debit Card,Returned
+1023,409,5001,Wireless Mouse,Electronics,3,$16.05,0,24-10-2023,Debit Card,Delivered
+1024,122,5001,Wireless Mouse,Electronics,2,$16.45,0,31-01-2023,Net Banking,Processing
+1025,216,5001,Wireless Mouse,Electronics,2,$15.39,0,27-06-2024,Net Banking,Delivered
+1026,304,5003,Laptop Stand,Electronics,4,$29.58,20,07-07-2025,Credit Card,Cancelled
+1027,466,5017,Table Lamp,Home & Kitchen,2,$28.12,0,13-06-2026,Cash on Delivery,Returned
+1028,434,5010,Cotton T-Shirt,Clothing,4,$15.74,0,05-03-2023,PayPal,Cancelled
+1029,165,5004,USB-C Cable,Electronics,4,$10.39,0,27-06-2025,Net Banking,Shipped
+1030,281,5003,Laptop Stand,Electronics,2,$30.39,10,17-07-2024,Cash on Delivery,Processing
+1031,310,5013,Sneakers,Clothing,5,$54.75,0,22-12-2025,PayPal,Delivered
+1032,117,5004,USB-C Cable,Electronics,5,$9.94,5,16-03-2024,PayPal,Processing
+1033,219,5015,Non-stick Pan,Home & Kitchen,4,$23.98,15,01-05-2025,UPI,Processing
+1034,44,5012,Winter Jacket,Clothing,2,$95.90,0,29-08-2025,Credit Card,Cancelled
+1035,490,5004,USB-C Cable,Electronics,3,$9.55,10,24-09-2023,Net Banking,Returned
+1036,482,5011,Denim Jeans,Clothing,1,$41.48,0,21-04-2025,PayPal,Delivered
+1037,260,5010,Cotton T-Shirt,Clothing,5,$14.40,0,01-10-2024,Debit Card,Shipped
+1038,189,5016,Blender,Home & Kitchen,2,$36.20,0,10-08-2023,Credit Card,Processing
+1039,393,5019,Cookbook,Books,2,$19.11,20,28-05-2025,Net Banking,Returned
+1040,137,5018,Novel - Fiction,Books,1,$12.39,15,01-06-2026,Credit Card,Shipped
+1041,446,5009,Dumbbell Set,Sports,3,$85.55,0,26-11-2024,Debit Card,Returned
+1042,16,5013,Sneakers,Clothing,1,$55.73,15,18-10-2023,Credit Card,Returned
+1043,190,5007,Running Shoes,Sports,4,$63.97,5,09-05-2025,UPI,Processing
+1044,387,5019,Cookbook,Books,5,$18.34,0,23-06-2023,Net Banking,Delivered
+1045,311,5003,Laptop Stand,Electronics,3,$29.76,15,26-06-2025,PayPal,Cancelled
+1046,57,5009,Dumbbell Set,Sports,2,$88.60,0,15-11-2025,UPI,Returned
+1047,307,5016,Blender,Home & Kitchen,5,$34.01,0,23-09-2024,Credit Card,Delivered
+1048,131,5007,Running Shoes,Sports,3,$62.64,20,08-03-2024,UPI,Processing
+1049,67,5004,USB-C Cable,Electronics,1,$9.92,15,15-10-2025,PayPal,Returned
+1050,182,5008,Water Bottle,Sports,5,$12.71,20,18-02-2026,Credit Card,Cancelled
+1051,442,5002,Bluetooth Headphones,Electronics,4,$47.42,5,08-02-2023,UPI,Returned
+1052,149,5014,Coffee Maker,Home & Kitchen,5,$50.69,15,08-04-2025,Credit Card,Cancelled
+1053,236,5001,Wireless Mouse,Electronics,3,$16.71,20,18-12-2023,Cash on Delivery,Processing
+1054,206,5003,Laptop Stand,Electronics,4,$29.80,0,05-08-2023,Net Banking,Delivered
+1055,87,5013,Sneakers,Clothing,3,$54.08,0,26-11-2024,Credit Card,Returned
+1056,179,5004,USB-C Cable,Electronics,5,$10.40,0,10-11-2025,UPI,Shipped
+1057,309,5008,Water Bottle,Sports,1,$12.12,0,27-10-2023,Debit Card,Delivered
+1058,297,5006,Yoga Mat,Sports,4,$22.14,20,08-08-2025,PayPal,Returned
+1059,241,5020,Notebook Set,Stationery,3,$6.95,0,09-10-2024,PayPal,Processing
+1060,159,5009,Dumbbell Set,Sports,5,$90.06,0,26-04-2023,PayPal,Cancelled
+1061,331,5002,Bluetooth Headphones,Electronics,1,$44.53,20,25-01-2025,Credit Card,Returned
+1062,489,5020,Notebook Set,Stationery,5,$7.05,5,26-02-2025,Cash on Delivery,Delivered
+1063,257,5015,Non-stick Pan,Home & Kitchen,5,$25.25,0,21-01-2024,Debit Card,Delivered
+1064,331,5015,Non-stick Pan,Home & Kitchen,1,$23.95,15,04-12-2024,Debit Card,Delivered
+1065,82,5008,Water Bottle,Sports,4,$12.53,10,18-06-2025,UPI,Processing
+1066,307,5010,Cotton T-Shirt,Clothing,4,$14.75,20,17-04-2025,Credit Card,Processing
+1067,146,5003,Laptop Stand,Electronics,3,$30.52,10,13-07-2023,UPI,Returned
+1068,470,5005,Mechanical Keyboard,Electronics,3,$81.30,10,16-06-2023,UPI,Processing
+1069,159,5013,Sneakers,Clothing,2,$57.41,15,03-05-2026,Net Banking,Cancelled
+1070,217,5011,Denim Jeans,Clothing,2,$40.57,0,14-12-2025,Net Banking,Processing
+1071,175,5001,Wireless Mouse,Electronics,3,$16.71,0,24-09-2024,PayPal,Shipped
+1072,404,5008,Water Bottle,Sports,2,$12.24,0,14-11-2023,Credit Card,Returned
+1073,393,5018,Novel - Fiction,Books,5,$11.79,15,19-03-2023,Net Banking,Shipped
+1074,355,5020,Notebook Set,Stationery,4,$6.77,0,12-11-2023,Net Banking,Shipped
+1075,122,5015,Non-stick Pan,Home & Kitchen,1,$25.43,0,21-04-2025,PayPal,Returned
+1076,495,5010,Cotton T-Shirt,Clothing,4,$14.60,10,24-04-2024,PayPal,Shipped
+1077,399,5012,Winter Jacket,Clothing,5,$102.68,5,21-06-2025,PayPal,Returned
+1078,310,5017,Table Lamp,Home & Kitchen,4,$26.67,20,28-11-2023,Debit Card,Processing
+1079,365,5002,Bluetooth Headphones,Electronics,4,$47.48,10,30-01-2025,Net Banking,Delivered
+1080,263,5010,Cotton T-Shirt,Clothing,1,$14.91,0,25-11-2023,Debit Card,Cancelled
+1081,213,5003,Laptop Stand,Electronics,2,$31.28,0,12-07-2025,Credit Card,Cancelled
+1082,192,5017,Table Lamp,Home & Kitchen,3,$28.86,5,27-04-2024,Debit Card,Delivered
+1083,20,5011,Denim Jeans,Clothing,1,$38.57,20,17-11-2024,UPI,Cancelled
+1084,41,5005,Mechanical Keyboard,Electronics,4,$76.03,10,07-07-2025,Credit Card,Processing
+1085,217,5007,Running Shoes,Sports,2,$65.71,15,28-01-2026,Credit Card,Processing
+1086,328,5008,Water Bottle,Sports,3,$12.17,0,07-09-2023,Net Banking,Cancelled
+1087,324,5003,Laptop Stand,Electronics,1,$30.10,10,20-10-2025,Net Banking,Returned
+1088,181,5008,Water Bottle,Sports,2,$11.88,5,19-08-2024,Debit Card,Returned
+1089,35,5014,Coffee Maker,Home & Kitchen,2,$52.36,10,25-06-2023,Net Banking,Returned
+1090,241,5017,Table Lamp,Home & Kitchen,5,$27.20,0,08-02-2026,Credit Card,Cancelled
+1091,177,5012,Winter Jacket,Clothing,3,$102.87,0,03-02-2023,Debit Card,Delivered
+1092,174,5019,Cookbook,Books,3,$18.71,0,01-10-2023,Cash on Delivery,Shipped
+1093,367,5015,Non-stick Pan,Home & Kitchen,4,$24.08,20,09-01-2024,PayPal,Delivered
+1094,22,5010,Cotton T-Shirt,Clothing,2,$14.54,20,31-03-2023,UPI,Processing
+1095,386,5017,Table Lamp,Home & Kitchen,4,$26.82,5,17-01-2026,Cash on Delivery,Shipped
+1096,140,5010,Cotton T-Shirt,Clothing,3,$15.22,20,08-04-2023,Credit Card,Processing
+1097,96,5014,Coffee Maker,Home & Kitchen,4,$49.19,5,19-06-2025,PayPal,Cancelled
+1098,218,5012,Winter Jacket,Clothing,5,$95.82,20,30-06-2024,Credit Card,Cancelled
+1099,41,5020,Notebook Set,Stationery,2,$6.87,0,22-01-2026,UPI,Processing
+1100,354,5010,Cotton T-Shirt,Clothing,4,$14.88,15,19-05-2026,PayPal,Processing
+1101,141,5015,Non-stick Pan,Home & Kitchen,1,$26.23,10,23-12-2024,Cash on Delivery,Delivered
+1102,348,5003,Laptop Stand,Electronics,4,$30.89,10,14-01-2025,Debit Card,Delivered
+1103,121,5005,Mechanical Keyboard,Electronics,5,$77.00,0,16-06-2025,Cash on Delivery,Processing
+1104,348,5012,Winter Jacket,Clothing,4,$101.04,0,07-03-2026,PayPal,Processing
+1105,188,5012,Winter Jacket,Clothing,4,$96.37,10,07-06-2023,PayPal,Processing
+1106,256,5009,Dumbbell Set,Sports,2,$92.11,0,21-08-2023,Net Banking,Cancelled
+1107,229,5018,Novel - Fiction,Books,1,$11.70,20,20-06-2024,Debit Card,Returned
+1108,38,5010,Cotton T-Shirt,Clothing,4,$14.44,0,14-02-2024,PayPal,Shipped
+1109,34,5015,Non-stick Pan,Home & Kitchen,1,$24.61,15,16-10-2024,Net Banking,Returned
+1110,359,5010,Cotton T-Shirt,Clothing,3,$15.30,15,19-11-2023,Cash on Delivery,Shipped
+1111,406,5012,Winter Jacket,Clothing,5,$104.84,0,04-04-2024,Debit Card,Shipped
+1112,240,5016,Blender,Home & Kitchen,1,$35.24,10,09-01-2025,Net Banking,Shipped
+1113,368,5020,Notebook Set,Stationery,1,$6.92,0,15-05-2023,Cash on Delivery,Cancelled
+1114,65,5017,Table Lamp,Home & Kitchen,4,$27.71,20,18-04-2025,UPI,Delivered
+1115,425,5015,Non-stick Pan,Home & Kitchen,4,$24.06,0,25-11-2025,Net Banking,Returned
+1116,29,5006,Yoga Mat,Sports,2,$22.90,10,05-06-2025,Credit Card,Returned
+1117,364,5005,Mechanical Keyboard,Electronics,3,$78.57,0,04-12-2023,Debit Card,Processing
+1118,490,5017,Table Lamp,Home & Kitchen,3,$26.66,0,11-06-2023,Net Banking,Processing
+1119,329,5005,Mechanical Keyboard,Electronics,3,$76.74,10,12-06-2026,Debit Card,Returned
+1120,462,5019,Cookbook,Books,2,$19.23,15,17-12-2023,Net Banking,Processing
+1121,329,5019,Cookbook,Books,1,$18.13,0,28-02-2023,Net Banking,Processing
+1122,255,5007,Running Shoes,Sports,5,$65.90,10,03-05-2025,Cash on Delivery,Returned
+1123,351,5010,Cotton T-Shirt,Clothing,3,$15.45,0,16-09-2025,PayPal,Processing
+1124,248,5015,Non-stick Pan,Home & Kitchen,1,$24.84,0,03-05-2023,PayPal,Shipped
+1125,164,5011,Denim Jeans,Clothing,5,$41.44,0,22-10-2023,Cash on Delivery,Processing
+1126,164,5013,Sneakers,Clothing,2,$55.34,10,28-01-2025,Debit Card,Cancelled
+1127,26,5004,USB-C Cable,Electronics,3,$9.63,0,09-07-2025,UPI,Cancelled
+1128,417,5020,Notebook Set,Stationery,4,$7.27,20,23-05-2024,UPI,Returned
+1129,240,5011,Denim Jeans,Clothing,2,$41.97,5,23-11-2023,PayPal,Processing
+1130,495,5016,Blender,Home & Kitchen,1,$35.01,5,04-07-2023,Debit Card,Shipped
+1131,306,5019,Cookbook,Books,3,$18.57,0,10-04-2023,Cash on Delivery,Cancelled
+1132,69,5010,Cotton T-Shirt,Clothing,5,$14.40,20,17-01-2023,UPI,Processing
+1133,288,5013,Sneakers,Clothing,3,$52.53,5,03-04-2023,Debit Card,Processing
+1134,392,5018,Novel - Fiction,Books,3,$12.00,5,31-05-2023,Net Banking,Processing
+1135,202,5020,Notebook Set,Stationery,5,$7.32,0,01-09-2023,UPI,Processing
+1136,206,5018,Novel - Fiction,Books,3,$12.11,0,23-10-2023,Net Banking,Delivered
+1137,243,5002,Bluetooth Headphones,Electronics,1,$44.74,15,08-10-2023,Net Banking,Cancelled
+1138,314,5005,Mechanical Keyboard,Electronics,5,$78.61,0,21-11-2025,UPI,Shipped
+1139,425,5013,Sneakers,Clothing,5,$54.10,10,04-09-2024,Net Banking,Returned
+1140,189,5016,Blender,Home & Kitchen,5,$36.09,5,05-09-2024,UPI,Delivered
+1141,447,5014,Coffee Maker,Home & Kitchen,5,$51.98,20,22-09-2024,Cash on Delivery,Delivered
+1142,398,5020,Notebook Set,Stationery,4,$7.19,15,27-06-2024,Net Banking,Returned
+1143,323,5008,Water Bottle,Sports,1,$12.09,5,10-04-2026,Cash on Delivery,Returned
+1144,359,5013,Sneakers,Clothing,2,$55.40,0,11-05-2024,Credit Card,Shipped
+1145,354,5001,Wireless Mouse,Electronics,4,$15.43,5,04-10-2024,Debit Card,Cancelled
+1146,373,5017,Table Lamp,Home & Kitchen,5,$28.46,20,23-08-2025,Credit Card,Shipped
+1147,245,5017,Table Lamp,Home & Kitchen,2,$28.87,0,22-02-2026,Net Banking,Cancelled
+1148,182,5011,Denim Jeans,Clothing,2,$39.36,10,30-07-2025,Cash on Delivery,Processing
+1149,153,5020,Notebook Set,Stationery,4,$6.84,0,29-01-2024,Debit Card,Processing
+1150,287,5010,Cotton T-Shirt,Clothing,2,$14.96,0,28-09-2025,Cash on Delivery,Processing
+1151,459,5010,Cotton T-Shirt,Clothing,1,$15.05,15,20-03-2026,PayPal,Processing
+1152,41,5005,Mechanical Keyboard,Electronics,3,$83.63,0,28-03-2023,UPI,Cancelled
+1153,139,5009,Dumbbell Set,Sports,4,$92.94,0,14-03-2024,Net Banking,Processing
+1154,125,5005,Mechanical Keyboard,Electronics,1,$80.68,15,14-06-2026,Credit Card,Returned
+1155,368,5008,Water Bottle,Sports,2,$12.39,0,18-04-2023,PayPal,Delivered
+1156,479,5005,Mechanical Keyboard,Electronics,1,$79.25,0,01-02-2026,PayPal,Cancelled
+1157,465,5007,Running Shoes,Sports,3,$65.95,0,19-10-2024,Credit Card,Returned
+1158,429,5008,Water Bottle,Sports,5,$12.40,0,18-03-2023,Debit Card,Delivered
+1159,475,5013,Sneakers,Clothing,4,$57.54,15,17-01-2024,UPI,Delivered
+1160,172,5001,Wireless Mouse,Electronics,3,$15.36,10,09-03-2026,UPI,Cancelled
+1161,240,5018,Novel - Fiction,Books,5,$12.41,0,08-10-2025,UPI,Shipped
+1162,132,5004,USB-C Cable,Electronics,3,$9.95,15,29-11-2023,Cash on Delivery,Shipped
+1163,99,5001,Wireless Mouse,Electronics,3,$16.27,10,27-08-2024,Debit Card,Returned
+1164,343,5013,Sneakers,Clothing,4,$52.73,0,21-11-2025,Credit Card,Shipped
+1165,197,5005,Mechanical Keyboard,Electronics,4,$76.05,0,24-10-2024,Debit Card,Cancelled
+1166,6,5009,Dumbbell Set,Sports,3,$92.00,10,10-09-2024,UPI,Processing
+1167,208,5008,Water Bottle,Sports,1,$12.26,5,31-08-2023,Cash on Delivery,Returned
+1168,113,5010,Cotton T-Shirt,Clothing,1,$15.16,0,27-08-2024,Debit Card,Cancelled
+1169,282,5005,Mechanical Keyboard,Electronics,4,$79.32,0,25-05-2026,PayPal,Returned
+1170,270,5007,Running Shoes,Sports,2,$66.87,20,05-05-2026,PayPal,Returned
+1171,281,5012,Winter Jacket,Clothing,1,$95.61,0,01-03-2026,Net Banking,Shipped
+1172,267,5019,Cookbook,Books,5,$18.66,0,03-11-2023,PayPal,Delivered
+1173,229,5007,Running Shoes,Sports,5,$67.59,0,28-09-2025,Credit Card,Cancelled
+1174,287,5005,Mechanical Keyboard,Electronics,5,$80.50,5,30-04-2025,PayPal,Processing
+1175,112,5001,Wireless Mouse,Electronics,4,$15.20,20,05-06-2024,Net Banking,Delivered
+1176,31,5002,Bluetooth Headphones,Electronics,4,$43.52,15,06-12-2024,Credit Card,Cancelled
+1177,393,5002,Bluetooth Headphones,Electronics,3,$46.72,0,17-04-2025,Cash on Delivery,Cancelled
+1178,194,5012,Winter Jacket,Clothing,4,$104.16,20,07-07-2025,PayPal,Delivered
+1179,276,5018,Novel - Fiction,Books,2,$11.60,0,13-12-2024,PayPal,Returned
+1180,153,5005,Mechanical Keyboard,Electronics,2,$76.17,20,08-01-2023,PayPal,Returned
+1181,236,5014,Coffee Maker,Home & Kitchen,5,$48.64,20,15-02-2025,UPI,Shipped
+1182,215,5009,Dumbbell Set,Sports,2,$92.77,0,20-08-2023,Net Banking,Delivered
+1183,229,5008,Water Bottle,Sports,2,$12.62,0,18-05-2023,Net Banking,Delivered
+1184,112,5008,Water Bottle,Sports,1,$12.17,5,03-04-2025,Credit Card,Shipped
+1185,295,5017,Table Lamp,Home & Kitchen,3,$28.65,20,24-04-2024,UPI,Returned
+1186,339,5020,Notebook Set,Stationery,3,$7.25,0,30-04-2024,Net Banking,Shipped
+1187,303,5014,Coffee Maker,Home & Kitchen,3,$50.27,0,17-07-2024,Cash on Delivery,Shipped
+1188,483,5014,Coffee Maker,Home & Kitchen,5,$52.35,0,12-10-2025,Cash on Delivery,Cancelled
+1189,193,5017,Table Lamp,Home & Kitchen,3,$26.54,5,02-05-2025,Debit Card,Returned
+1190,74,5016,Blender,Home & Kitchen,2,$36.24,0,06-04-2024,PayPal,Delivered
+1191,199,5018,Novel - Fiction,Books,4,$12.03,10,03-05-2025,Debit Card,Processing
+1192,48,5007,Running Shoes,Sports,3,$67.26,5,11-06-2023,Net Banking,Shipped
+1193,21,5002,Bluetooth Headphones,Electronics,3,$45.98,15,11-02-2025,Credit Card,Shipped
+1194,465,5019,Cookbook,Books,5,$18.44,5,20-03-2024,UPI,Processing
+1195,387,5001,Wireless Mouse,Electronics,2,$15.38,15,25-01-2024,PayPal,Shipped
+1196,398,5020,Notebook Set,Stationery,2,$7.03,0,23-03-2025,UPI,Cancelled
+1197,263,5015,Non-stick Pan,Home & Kitchen,5,$24.39,0,05-01-2025,PayPal,Cancelled
+1198,212,5004,USB-C Cable,Electronics,4,$9.86,0,17-10-2024,Credit Card,Returned
+1199,300,5008,Water Bottle,Sports,2,$12.57,0,03-02-2023,Net Banking,Cancelled
+1200,292,5010,Cotton T-Shirt,Clothing,2,$14.59,0,06-02-2024,Debit Card,Cancelled
+1201,495,5018,Novel - Fiction,Books,3,$12.38,20,11-06-2024,Cash on Delivery,Cancelled
+1202,280,5015,Non-stick Pan,Home & Kitchen,2,$24.09,0,22-12-2024,PayPal,Shipped
+1203,39,5018,Novel - Fiction,Books,1,$12.40,0,09-12-2025,Cash on Delivery,Delivered
+1204,35,5001,Wireless Mouse,Electronics,4,$16.20,20,09-10-2023,Cash on Delivery,Shipped
+1205,317,5001,Wireless Mouse,Electronics,2,$15.79,5,01-11-2025,Cash on Delivery,Returned
+1206,211,5016,Blender,Home & Kitchen,4,$35.10,0,02-02-2023,Credit Card,Delivered
+1207,417,5017,Table Lamp,Home & Kitchen,3,$26.17,0,02-01-2026,Cash on Delivery,Cancelled
+1208,99,5006,Yoga Mat,Sports,1,$21.23,10,17-07-2023,Net Banking,Returned
+1209,192,5009,Dumbbell Set,Sports,3,$89.06,20,01-07-2024,PayPal,Cancelled
+1210,435,5019,Cookbook,Books,2,$19.34,0,07-04-2024,Credit Card,Delivered
+1211,29,5003,Laptop Stand,Electronics,4,$30.15,5,15-02-2025,Cash on Delivery,Delivered
+1212,402,5006,Yoga Mat,Sports,1,$21.85,20,20-10-2025,UPI,Returned
+1213,445,5004,USB-C Cable,Electronics,5,$9.70,0,29-03-2023,Cash on Delivery,Returned
+1214,144,5016,Blender,Home & Kitchen,3,$35.64,0,06-04-2023,Net Banking,Returned
+1215,301,5002,Bluetooth Headphones,Electronics,2,$47.60,0,06-10-2024,Debit Card,Cancelled
+1216,428,5003,Laptop Stand,Electronics,3,$29.21,10,29-11-2023,PayPal,Returned
+1217,371,5011,Denim Jeans,Clothing,4,$41.94,20,14-10-2023,Credit Card,Returned
+1218,39,5012,Winter Jacket,Clothing,1,$97.31,5,20-07-2023,UPI,Returned
+1219,325,5020,Notebook Set,Stationery,5,$6.87,20,23-03-2025,UPI,Cancelled
+1220,222,5016,Blender,Home & Kitchen,2,$36.53,10,29-12-2024,Debit Card,Returned
+1221,366,5013,Sneakers,Clothing,1,$56.64,0,20-06-2026,Credit Card,Delivered
+1222,79,5009,Dumbbell Set,Sports,2,$92.54,15,17-02-2025,Cash on Delivery,Cancelled
+1223,158,5011,Denim Jeans,Clothing,3,$38.01,0,07-08-2023,PayPal,Processing
+1224,230,5009,Dumbbell Set,Sports,1,$87.18,0,29-09-2023,Net Banking,Returned
+1225,284,5017,Table Lamp,Home & Kitchen,4,$26.37,0,31-07-2023,Credit Card,Returned
+1226,199,5020,Notebook Set,Stationery,3,$6.84,0,27-02-2025,Credit Card,Returned
+1227,87,5008,Water Bottle,Sports,5,$12.73,0,03-12-2025,Debit Card,Processing
+1228,223,5010,Cotton T-Shirt,Clothing,3,$14.34,0,06-10-2025,UPI,Cancelled
+1229,127,5010,Cotton T-Shirt,Clothing,4,$14.62,0,07-06-2023,Cash on Delivery,Cancelled
+1230,156,5020,Notebook Set,Stationery,5,$6.72,5,05-02-2024,Credit Card,Cancelled
+1231,226,5011,Denim Jeans,Clothing,5,$41.44,20,17-02-2025,UPI,Cancelled
+1232,356,5020,Notebook Set,Stationery,2,$7.06,0,07-09-2024,Debit Card,Cancelled
+1233,356,5011,Denim Jeans,Clothing,2,$39.16,0,26-03-2025,Cash on Delivery,Cancelled
+1234,403,5019,Cookbook,Books,2,$18.57,5,29-10-2024,PayPal,Processing
+1235,93,5004,USB-C Cable,Electronics,5,$10.49,10,14-02-2024,Cash on Delivery,Returned
+1236,426,5001,Wireless Mouse,Electronics,4,$16.47,5,05-03-2024,Cash on Delivery,Delivered
+1237,130,5014,Coffee Maker,Home & Kitchen,4,$49.00,15,13-10-2023,Cash on Delivery,Shipped
+1238,246,5014,Coffee Maker,Home & Kitchen,4,$52.44,5,01-06-2023,Net Banking,Cancelled
+1239,496,5018,Novel - Fiction,Books,5,$11.43,10,06-05-2025,UPI,Returned
+1240,341,5020,Notebook Set,Stationery,1,$6.81,20,12-08-2023,UPI,Shipped
+1241,205,5020,Notebook Set,Stationery,1,$7.11,15,27-02-2026,UPI,Cancelled
+1242,383,5004,USB-C Cable,Electronics,1,$9.71,0,21-07-2023,Net Banking,Returned
+1243,238,5019,Cookbook,Books,5,$18.75,5,28-03-2024,Cash on Delivery,Returned
+1244,152,5017,Table Lamp,Home & Kitchen,2,$27.45,0,07-12-2024,PayPal,Delivered
+1245,402,5004,USB-C Cable,Electronics,2,$9.83,0,14-12-2024,Debit Card,Returned
+1246,357,5016,Blender,Home & Kitchen,3,$34.77,0,02-09-2025,PayPal,Processing
+1247,12,5003,Laptop Stand,Electronics,3,$30.62,20,02-04-2023,UPI,Delivered
+1248,170,5006,Yoga Mat,Sports,2,$22.11,0,22-11-2025,Net Banking,Cancelled
+1249,328,5015,Non-stick Pan,Home & Kitchen,2,$24.20,15,09-04-2025,Cash on Delivery,Cancelled
+1250,220,5013,Sneakers,Clothing,1,$54.72,0,11-06-2026,PayPal,Delivered
+1251,408,5007,Running Shoes,Sports,2,$66.32,20,24-07-2024,Credit Card,Returned
+1252,235,5004,USB-C Cable,Electronics,5,$9.82,0,18-01-2024,Credit Card,Processing
+1253,201,5016,Blender,Home & Kitchen,5,$34.60,10,03-10-2024,Net Banking,Delivered
+1254,345,5012,Winter Jacket,Clothing,3,$96.72,10,26-07-2025,Cash on Delivery,Processing
+1255,61,5020,Notebook Set,Stationery,5,$6.73,15,23-06-2023,Debit Card,Processing
+1256,199,5004,USB-C Cable,Electronics,2,$9.63,15,03-02-2025,PayPal,Returned
+1257,326,5005,Mechanical Keyboard,Electronics,5,$77.48,5,24-02-2025,Net Banking,Shipped
+1258,162,5018,Novel - Fiction,Books,2,$11.56,0,29-09-2025,PayPal,Returned
+1259,418,5002,Bluetooth Headphones,Electronics,3,$43.85,5,20-01-2023,PayPal,Returned
+1260,364,5017,Table Lamp,Home & Kitchen,4,$27.48,15,17-04-2025,PayPal,Cancelled
+1261,113,5006,Yoga Mat,Sports,1,$22.65,0,03-03-2026,UPI,Delivered
+1262,235,5009,Dumbbell Set,Sports,2,$87.00,0,06-01-2026,Net Banking,Cancelled
+1263,397,5018,Novel - Fiction,Books,5,$11.53,10,20-08-2023,Net Banking,Processing
+1264,218,5018,Novel - Fiction,Books,1,$11.65,10,22-06-2025,Credit Card,Shipped
+1265,419,5010,Cotton T-Shirt,Clothing,1,$14.76,0,10-07-2025,Credit Card,Cancelled
+1266,353,5004,USB-C Cable,Electronics,2,$10.23,20,05-03-2024,UPI,Returned
+1267,417,5014,Coffee Maker,Home & Kitchen,2,$51.41,0,15-06-2026,Debit Card,Delivered
+1268,87,5019,Cookbook,Books,3,$19.17,0,26-12-2025,UPI,Processing
+1269,461,5010,Cotton T-Shirt,Clothing,5,$15.01,20,01-07-2024,Cash on Delivery,Delivered
+1270,65,5005,Mechanical Keyboard,Electronics,4,$82.93,0,02-05-2023,Cash on Delivery,Shipped
+1271,432,5008,Water Bottle,Sports,2,$12.18,20,21-10-2024,Cash on Delivery,Cancelled
+1272,213,5016,Blender,Home & Kitchen,2,$34.18,15,28-03-2026,PayPal,Cancelled
+1273,356,5003,Laptop Stand,Electronics,1,$30.74,10,05-04-2025,UPI,Cancelled
+1274,434,5016,Blender,Home & Kitchen,3,$36.28,0,06-04-2026,Cash on Delivery,Delivered
+1275,112,5015,Non-stick Pan,Home & Kitchen,3,$25.08,20,10-05-2023,PayPal,Shipped
+1276,281,5016,Blender,Home & Kitchen,3,$34.23,20,23-10-2024,Net Banking,Shipped
+1277,24,5019,Cookbook,Books,4,$19.49,15,04-12-2024,Credit Card,Cancelled
+1278,491,5001,Wireless Mouse,Electronics,1,$15.92,5,20-11-2023,PayPal,Shipped
+1279,141,5005,Mechanical Keyboard,Electronics,3,$83.45,20,22-11-2023,Credit Card,Processing
+1280,85,5009,Dumbbell Set,Sports,1,$93.62,15,31-01-2025,Credit Card,Cancelled
+1281,49,5010,Cotton T-Shirt,Clothing,2,$14.38,15,29-05-2025,Credit Card,Shipped
+1282,349,5016,Blender,Home & Kitchen,1,$34.03,10,29-09-2023,PayPal,Delivered
+1283,68,5001,Wireless Mouse,Electronics,3,$15.87,20,04-09-2023,PayPal,Delivered
+1284,53,5008,Water Bottle,Sports,4,$12.88,15,02-07-2023,UPI,Processing
+1285,448,5010,Cotton T-Shirt,Clothing,2,$15.46,20,22-02-2025,Debit Card,Shipped
+1286,85,5003,Laptop Stand,Electronics,5,$30.32,0,27-02-2026,PayPal,Processing
+1287,441,5007,Running Shoes,Sports,2,$66.21,10,23-04-2025,Debit Card,Delivered
+1288,180,5004,USB-C Cable,Electronics,2,$10.22,10,10-09-2023,PayPal,Processing
+1289,284,5005,Mechanical Keyboard,Electronics,2,$76.66,15,21-07-2024,Net Banking,Returned
+1290,449,5020,Notebook Set,Stationery,3,$7.23,20,24-02-2023,UPI,Shipped
+1291,152,5017,Table Lamp,Home & Kitchen,5,$28.18,0,09-11-2025,Cash on Delivery,Delivered
+1292,327,5008,Water Bottle,Sports,4,$12.18,0,01-03-2025,Net Banking,Delivered
+1293,441,5017,Table Lamp,Home & Kitchen,1,$26.49,0,09-01-2025,Net Banking,Cancelled
+1294,395,5012,Winter Jacket,Clothing,5,$99.70,20,20-12-2023,Credit Card,Delivered
+1295,473,5019,Cookbook,Books,1,$18.45,0,29-01-2023,Credit Card,Cancelled
+1296,360,5017,Table Lamp,Home & Kitchen,3,$27.27,20,23-10-2025,PayPal,Delivered
+1297,159,5018,Novel - Fiction,Books,5,$11.72,0,15-06-2026,Credit Card,Returned
+1298,325,5007,Running Shoes,Sports,2,$64.29,0,03-01-2026,Cash on Delivery,Delivered
+1299,474,5010,Cotton T-Shirt,Clothing,4,$14.61,0,03-05-2024,PayPal,Delivered
+1300,380,5015,Non-stick Pan,Home & Kitchen,5,$24.51,0,31-05-2026,Cash on Delivery,Shipped
+1301,255,5004,USB-C Cable,Electronics,1,$9.50,15,09-10-2023,UPI,Returned
+1302,400,5017,Table Lamp,Home & Kitchen,3,$26.47,0,08-12-2023,UPI,Delivered
+1303,135,5001,Wireless Mouse,Electronics,3,$16.03,0,29-05-2025,Cash on Delivery,Returned
+1304,256,5003,Laptop Stand,Electronics,4,$29.57,10,21-07-2025,Net Banking,Shipped
+1305,294,5012,Winter Jacket,Clothing,2,$96.02,20,06-06-2024,Cash on Delivery,Delivered
+1306,7,5008,Water Bottle,Sports,5,$12.95,0,06-01-2023,Debit Card,Delivered
+1307,492,5016,Blender,Home & Kitchen,3,$33.87,0,23-02-2025,Credit Card,Returned
+1308,369,5014,Coffee Maker,Home & Kitchen,2,$49.57,0,21-10-2024,UPI,Processing
+1309,462,5003,Laptop Stand,Electronics,5,$30.00,0,02-02-2025,Credit Card,Shipped
+1310,239,5008,Water Bottle,Sports,5,$11.96,5,05-04-2023,UPI,Processing
+1311,103,5011,Denim Jeans,Clothing,1,$38.02,5,06-02-2026,UPI,Returned
+1312,498,5010,Cotton T-Shirt,Clothing,5,$14.79,5,11-05-2024,PayPal,Shipped
+1313,13,5018,Novel - Fiction,Books,2,$12.51,0,05-11-2023,Debit Card,Returned
+1314,193,5012,Winter Jacket,Clothing,1,$102.58,0,17-11-2024,Cash on Delivery,Processing
+1315,493,5004,USB-C Cable,Electronics,2,$9.91,0,21-12-2025,Credit Card,Shipped
+1316,267,5009,Dumbbell Set,Sports,1,$93.57,0,31-03-2023,PayPal,Processing
+1317,327,5015,Non-stick Pan,Home & Kitchen,1,$25.00,0,04-04-2026,PayPal,Delivered
+1318,67,5019,Cookbook,Books,5,$19.30,5,08-05-2023,Debit Card,Processing
+1319,168,5009,Dumbbell Set,Sports,3,$92.98,15,15-03-2025,UPI,Cancelled
+1320,395,5009,Dumbbell Set,Sports,2,$86.72,0,02-06-2023,Net Banking,Delivered
+1321,209,5005,Mechanical Keyboard,Electronics,1,$79.72,5,03-12-2023,Credit Card,Returned
+1322,437,5012,Winter Jacket,Clothing,2,$99.62,0,14-07-2025,Credit Card,Delivered
+1323,439,5006,Yoga Mat,Sports,3,$21.37,0,20-05-2026,UPI,Shipped
+1324,347,5003,Laptop Stand,Electronics,2,$30.03,5,29-12-2024,UPI,Processing
+1325,384,5006,Yoga Mat,Sports,1,$21.89,20,08-04-2025,Net Banking,Shipped
+1326,63,5004,USB-C Cable,Electronics,4,$10.28,20,28-07-2023,Credit Card,Delivered
+1327,352,5008,Water Bottle,Sports,2,$12.38,20,10-02-2024,Cash on Delivery,Delivered
+1328,34,5019,Cookbook,Books,5,$18.18,20,14-06-2024,Debit Card,Cancelled
+1329,237,5005,Mechanical Keyboard,Electronics,1,$76.33,0,10-11-2024,Credit Card,Shipped
+1330,350,5019,Cookbook,Books,4,$18.10,5,19-03-2025,PayPal,Shipped
+1331,453,5012,Winter Jacket,Clothing,2,$97.79,0,19-01-2024,Debit Card,Delivered
+1332,256,5020,Notebook Set,Stationery,5,$7.09,0,17-06-2026,PayPal,Returned
+1333,215,5016,Blender,Home & Kitchen,1,$34.58,0,29-06-2023,Debit Card,Returned
+1334,184,5008,Water Bottle,Sports,5,$12.85,5,09-02-2023,PayPal,Returned
+1335,139,5016,Blender,Home & Kitchen,3,$34.37,10,04-03-2026,Debit Card,Delivered
+1336,399,5011,Denim Jeans,Clothing,5,$41.57,0,24-03-2024,UPI,Delivered
+1337,120,5016,Blender,Home & Kitchen,5,$35.28,20,02-01-2025,Debit Card,Delivered
+1338,470,5008,Water Bottle,Sports,2,$12.90,10,29-06-2024,Cash on Delivery,Delivered
+1339,433,5008,Water Bottle,Sports,5,$13.04,0,06-03-2025,Debit Card,Shipped
+1340,184,5008,Water Bottle,Sports,5,$12.80,20,13-10-2024,Net Banking,Delivered
+1341,97,5012,Winter Jacket,Clothing,5,$100.62,0,28-02-2026,PayPal,Returned
+1342,120,5010,Cotton T-Shirt,Clothing,2,$14.38,0,01-10-2025,Net Banking,Shipped
+1343,315,5001,Wireless Mouse,Electronics,5,$15.72,0,05-09-2025,Debit Card,Shipped
+1344,301,5011,Denim Jeans,Clothing,2,$38.08,0,24-10-2024,Cash on Delivery,Shipped
+1345,483,5004,USB-C Cable,Electronics,5,$9.86,0,17-01-2025,Cash on Delivery,Cancelled
+1346,500,5019,Cookbook,Books,1,$18.65,0,20-11-2024,Debit Card,Cancelled
+1347,356,5016,Blender,Home & Kitchen,3,$36.63,15,23-12-2023,Net Banking,Processing
+1348,353,5008,Water Bottle,Sports,5,$12.26,5,26-12-2023,UPI,Shipped
+1349,395,5006,Yoga Mat,Sports,1,$22.77,5,19-03-2026,Net Banking,Delivered
+1350,114,5006,Yoga Mat,Sports,5,$23.03,20,13-10-2024,Cash on Delivery,Returned
+1351,122,5004,USB-C Cable,Electronics,4,$10.24,0,16-10-2023,UPI,Processing
+1352,108,5006,Yoga Mat,Sports,1,$20.93,5,18-11-2024,Debit Card,Delivered
+1353,198,5012,Winter Jacket,Clothing,3,$95.00,15,10-08-2023,PayPal,Cancelled
+1354,193,5006,Yoga Mat,Sports,4,$21.67,5,06-10-2025,Credit Card,Cancelled
+1355,434,5019,Cookbook,Books,2,$18.18,5,30-11-2023,Credit Card,Processing
+1356,88,5001,Wireless Mouse,Electronics,3,$15.31,0,18-06-2024,PayPal,Shipped
+1357,315,5003,Laptop Stand,Electronics,5,$30.27,0,10-07-2023,PayPal,Delivered
+1358,52,5014,Coffee Maker,Home & Kitchen,2,$48.28,5,28-05-2026,UPI,Shipped
+1359,277,5007,Running Shoes,Sports,4,$67.77,15,08-02-2026,UPI,Processing
+1360,282,5010,Cotton T-Shirt,Clothing,2,$14.83,0,16-07-2023,PayPal,Shipped
+1361,422,5002,Bluetooth Headphones,Electronics,3,$43.62,5,08-01-2023,Cash on Delivery,Returned
+1362,327,5016,Blender,Home & Kitchen,2,$33.96,0,18-07-2023,UPI,Delivered
+1363,251,5016,Blender,Home & Kitchen,1,$34.63,20,23-09-2024,Cash on Delivery,Processing
+1364,196,5003,Laptop Stand,Electronics,5,$29.60,0,04-03-2025,UPI,Shipped
+1365,116,5015,Non-stick Pan,Home & Kitchen,1,$24.90,5,23-06-2024,UPI,Returned
+1366,414,5002,Bluetooth Headphones,Electronics,2,$46.27,0,18-07-2023,Net Banking,Cancelled
+1367,420,5019,Cookbook,Books,2,$19.64,0,07-02-2026,Net Banking,Cancelled
+1368,41,5018,Novel - Fiction,Books,4,$11.96,0,18-03-2026,PayPal,Delivered
+1369,318,5017,Table Lamp,Home & Kitchen,5,$27.70,20,24-11-2025,Debit Card,Delivered
+1370,65,5015,Non-stick Pan,Home & Kitchen,2,$25.76,0,09-12-2023,Credit Card,Cancelled
+1371,428,5003,Laptop Stand,Electronics,4,$30.37,20,18-02-2024,Net Banking,Processing
+1372,283,5011,Denim Jeans,Clothing,1,$40.22,5,28-06-2023,UPI,Processing
+1373,301,5017,Table Lamp,Home & Kitchen,4,$28.05,20,26-01-2023,Net Banking,Cancelled
+1374,299,5004,USB-C Cable,Electronics,4,$10.06,0,03-11-2023,Credit Card,Delivered
+1375,177,5019,Cookbook,Books,1,$19.06,20,08-08-2024,PayPal,Processing
+1376,89,5013,Sneakers,Clothing,4,$54.85,10,17-03-2026,UPI,Cancelled
+1377,20,5005,Mechanical Keyboard,Electronics,5,$81.54,15,31-05-2026,PayPal,Processing
+1378,11,5008,Water Bottle,Sports,1,$13.00,0,31-08-2025,UPI,Processing
+1379,51,5010,Cotton T-Shirt,Clothing,3,$15.28,20,03-10-2025,Debit Card,Shipped
+1380,310,5010,Cotton T-Shirt,Clothing,4,$15.33,0,19-10-2024,Cash on Delivery,Delivered
+1381,249,5007,Running Shoes,Sports,4,$64.40,20,08-03-2024,Net Banking,Processing
+1382,260,5002,Bluetooth Headphones,Electronics,5,$44.64,0,22-11-2023,PayPal,Shipped
+1383,427,5017,Table Lamp,Home & Kitchen,5,$26.66,0,01-03-2023,Debit Card,Delivered
+1384,361,5008,Water Bottle,Sports,1,$13.02,0,23-07-2025,Debit Card,Processing
+1385,64,5012,Winter Jacket,Clothing,4,$101.34,5,31-10-2025,Cash on Delivery,Delivered
+1386,492,5008,Water Bottle,Sports,3,$12.43,10,28-09-2025,PayPal,Returned
+1387,133,5018,Novel - Fiction,Books,3,$12.39,0,06-12-2024,Cash on Delivery,Delivered
+1388,293,5010,Cotton T-Shirt,Clothing,1,$14.48,0,02-03-2025,Debit Card,Shipped
+1389,11,5008,Water Bottle,Sports,2,$12.39,15,05-07-2024,Cash on Delivery,Delivered
+1390,115,5016,Blender,Home & Kitchen,2,$36.04,10,21-12-2023,UPI,Returned
+1391,236,5010,Cotton T-Shirt,Clothing,3,$15.52,5,17-05-2025,UPI,Shipped
+1392,300,5015,Non-stick Pan,Home & Kitchen,3,$25.30,20,02-12-2025,Credit Card,Delivered
+1393,145,5017,Table Lamp,Home & Kitchen,3,$27.76,15,23-02-2026,UPI,Delivered
+1394,442,5016,Blender,Home & Kitchen,1,$35.48,0,19-11-2024,UPI,Processing
+1395,461,5010,Cotton T-Shirt,Clothing,2,$15.39,10,04-11-2023,Credit Card,Returned
+1396,255,5013,Sneakers,Clothing,3,$52.39,15,14-10-2023,UPI,Processing
+1397,363,5014,Coffee Maker,Home & Kitchen,4,$47.67,15,06-03-2025,Net Banking,Shipped
+1398,465,5011,Denim Jeans,Clothing,2,$41.13,15,30-12-2025,Cash on Delivery,Processing
+1399,286,5017,Table Lamp,Home & Kitchen,3,$27.93,20,15-12-2023,Debit Card,Processing
+1400,414,5004,USB-C Cable,Electronics,4,$9.75,15,20-09-2023,Net Banking,Shipped
+1401,447,5011,Denim Jeans,Clothing,1,$38.88,0,31-03-2024,UPI,Cancelled
+1402,436,5011,Denim Jeans,Clothing,3,$39.17,10,17-06-2024,Credit Card,Cancelled
+1403,456,5002,Bluetooth Headphones,Electronics,5,$43.55,10,03-04-2026,Debit Card,Returned
+1404,446,5004,USB-C Cable,Electronics,4,$9.90,0,21-12-2025,Debit Card,Shipped
+1405,235,5007,Running Shoes,Sports,3,$67.55,10,18-04-2025,Debit Card,Processing
+1406,91,5006,Yoga Mat,Sports,1,$22.29,0,25-09-2025,UPI,Delivered
+1407,87,5001,Wireless Mouse,Electronics,4,$16.41,0,14-07-2024,Net Banking,Shipped
+1408,220,5016,Blender,Home & Kitchen,1,$34.76,10,23-09-2023,PayPal,Cancelled
+1409,375,5016,Blender,Home & Kitchen,4,$35.11,0,10-01-2023,UPI,Delivered
+1410,321,5011,Denim Jeans,Clothing,5,$40.70,0,26-01-2024,Cash on Delivery,Shipped
+1411,258,5008,Water Bottle,Sports,3,$12.00,0,01-10-2024,Net Banking,Processing
+1412,234,5006,Yoga Mat,Sports,1,$22.99,0,04-04-2023,Cash on Delivery,Returned
+1413,69,5020,Notebook Set,Stationery,5,$7.26,5,22-11-2024,UPI,Cancelled
+1414,117,5012,Winter Jacket,Clothing,2,$99.02,20,04-12-2023,Debit Card,Shipped
+1415,188,5007,Running Shoes,Sports,1,$62.85,10,22-04-2026,Cash on Delivery,Delivered
+1416,25,5013,Sneakers,Clothing,3,$52.52,10,31-12-2025,Cash on Delivery,Delivered
+1417,64,5001,Wireless Mouse,Electronics,1,$15.90,5,26-08-2023,Net Banking,Processing
+1418,5,5016,Blender,Home & Kitchen,2,$35.64,15,25-02-2024,UPI,Cancelled
+1419,71,5004,USB-C Cable,Electronics,5,$10.10,10,06-07-2024,PayPal,Delivered
+1420,55,5017,Table Lamp,Home & Kitchen,5,$26.44,0,30-08-2023,PayPal,Shipped
+1421,104,5020,Notebook Set,Stationery,2,$7.01,20,22-06-2024,UPI,Cancelled
+1422,107,5010,Cotton T-Shirt,Clothing,2,$14.98,10,22-03-2023,Cash on Delivery,Cancelled
+1423,465,5011,Denim Jeans,Clothing,2,$40.68,0,06-01-2023,Credit Card,Returned
+1424,371,5016,Blender,Home & Kitchen,2,$35.03,20,04-07-2023,Cash on Delivery,Delivered
+1425,26,5009,Dumbbell Set,Sports,2,$87.87,0,24-07-2025,Credit Card,Shipped
+1426,219,5002,Bluetooth Headphones,Electronics,3,$46.30,20,07-01-2025,Cash on Delivery,Delivered
+1427,332,5004,USB-C Cable,Electronics,1,$9.63,20,20-01-2023,Debit Card,Processing
+1428,48,5012,Winter Jacket,Clothing,4,$103.77,0,27-06-2026,UPI,Processing
+1429,140,5006,Yoga Mat,Sports,1,$23.02,5,31-03-2025,PayPal,Cancelled
+1430,31,5014,Coffee Maker,Home & Kitchen,2,$50.97,0,20-08-2023,Debit Card,Delivered
+1431,225,5014,Coffee Maker,Home & Kitchen,5,$50.33,20,15-09-2025,Debit Card,Returned
+1432,451,5013,Sneakers,Clothing,3,$56.99,0,06-06-2026,Cash on Delivery,Shipped
+1433,33,5016,Blender,Home & Kitchen,4,$34.78,5,20-08-2023,UPI,Processing
+1434,490,5001,Wireless Mouse,Electronics,5,$16.09,15,26-03-2026,Cash on Delivery,Processing
+1435,373,5017,Table Lamp,Home & Kitchen,5,$27.32,0,20-06-2026,Debit Card,Cancelled
+1436,457,5012,Winter Jacket,Clothing,4,$103.25,20,01-11-2023,Net Banking,Delivered
+1437,254,5001,Wireless Mouse,Electronics,2,$15.94,20,01-11-2025,Debit Card,Delivered
+1438,26,5016,Blender,Home & Kitchen,3,$36.64,0,08-05-2024,Net Banking,Shipped
+1439,236,5018,Novel - Fiction,Books,4,$11.67,20,05-04-2025,PayPal,Returned
+1440,255,5015,Non-stick Pan,Home & Kitchen,1,$24.53,5,17-10-2025,Cash on Delivery,Delivered
+1441,1,5004,USB-C Cable,Electronics,4,$10.05,0,24-04-2025,Credit Card,Returned
+1442,344,5020,Notebook Set,Stationery,3,$6.79,10,07-11-2025,PayPal,Processing
+1443,287,5012,Winter Jacket,Clothing,1,$99.53,20,01-04-2024,Net Banking,Returned
+1444,338,5016,Blender,Home & Kitchen,3,$33.58,0,15-07-2025,Debit Card,Delivered
+1445,360,5011,Denim Jeans,Clothing,3,$40.08,10,20-08-2024,Credit Card,Delivered
+1446,370,5006,Yoga Mat,Sports,4,$22.48,20,15-10-2023,PayPal,Delivered
+1447,437,5009,Dumbbell Set,Sports,5,$86.58,0,06-02-2024,PayPal,Shipped
+1448,24,5015,Non-stick Pan,Home & Kitchen,2,$25.63,0,23-11-2024,Cash on Delivery,Returned
+1449,259,5004,USB-C Cable,Electronics,4,$10.08,15,25-07-2025,Debit Card,Cancelled
+1450,430,5001,Wireless Mouse,Electronics,5,$16.69,10,10-04-2023,Net Banking,Cancelled
+1451,66,5017,Table Lamp,Home & Kitchen,2,$28.13,0,30-03-2026,Credit Card,Cancelled
+1452,215,5020,Notebook Set,Stationery,5,$7.26,10,21-10-2024,Net Banking,Shipped
+1453,69,5009,Dumbbell Set,Sports,4,$89.57,0,03-12-2024,Debit Card,Cancelled
+1454,441,5020,Notebook Set,Stationery,5,$7.13,20,04-09-2024,UPI,Returned
+1455,352,5007,Running Shoes,Sports,2,$66.39,10,05-03-2024,UPI,Shipped
+1456,364,5006,Yoga Mat,Sports,5,$22.30,15,16-01-2026,Credit Card,Processing
+1457,364,5018,Novel - Fiction,Books,4,$12.52,10,08-04-2026,PayPal,Returned
+1458,196,5010,Cotton T-Shirt,Clothing,4,$14.40,10,27-01-2023,Debit Card,Delivered
+1459,147,5002,Bluetooth Headphones,Electronics,2,$46.80,20,30-06-2024,Cash on Delivery,Processing
+1460,17,5005,Mechanical Keyboard,Electronics,1,$82.02,0,27-08-2024,UPI,Cancelled
+1461,332,5004,USB-C Cable,Electronics,5,$9.71,20,24-02-2026,Net Banking,Cancelled
+1462,475,5008,Water Bottle,Sports,5,$12.71,15,12-08-2024,PayPal,Cancelled
+1463,129,5014,Coffee Maker,Home & Kitchen,3,$47.56,0,04-02-2026,Debit Card,Returned
+1464,379,5015,Non-stick Pan,Home & Kitchen,2,$25.21,20,23-01-2025,Net Banking,Shipped
+1465,39,5007,Running Shoes,Sports,3,$68.14,0,08-07-2025,Debit Card,Shipped
+1466,285,5017,Table Lamp,Home & Kitchen,1,$27.30,0,11-02-2025,UPI,Shipped
+1467,364,5006,Yoga Mat,Sports,5,$21.63,0,06-06-2024,Debit Card,Delivered
+1468,321,5005,Mechanical Keyboard,Electronics,3,$82.18,0,07-05-2026,Net Banking,Processing
+1469,363,5016,Blender,Home & Kitchen,5,$33.50,0,31-01-2026,UPI,Returned
+1470,82,5008,Water Bottle,Sports,2,$12.86,0,02-12-2025,PayPal,Returned
+1471,110,5018,Novel - Fiction,Books,4,$11.66,0,08-07-2023,Cash on Delivery,Processing
+1472,317,5011,Denim Jeans,Clothing,3,$41.79,0,24-08-2024,Net Banking,Cancelled
+1473,124,5018,Novel - Fiction,Books,1,$11.81,15,23-08-2023,Cash on Delivery,Returned
+1474,196,5020,Notebook Set,Stationery,2,$7.26,15,23-03-2023,Credit Card,Cancelled
+1475,421,5009,Dumbbell Set,Sports,5,$93.69,0,02-08-2024,UPI,Returned
+1476,334,5017,Table Lamp,Home & Kitchen,4,$26.94,0,23-09-2025,Debit Card,Processing
+1477,396,5017,Table Lamp,Home & Kitchen,1,$28.80,0,16-07-2023,Net Banking,Returned
+1478,110,5001,Wireless Mouse,Electronics,1,$16.20,15,07-03-2024,Cash on Delivery,Cancelled
+1479,500,5004,USB-C Cable,Electronics,2,$10.19,20,06-01-2026,Cash on Delivery,Cancelled
+1480,20,5003,Laptop Stand,Electronics,2,$30.64,5,18-02-2023,Credit Card,Delivered
+1481,421,5002,Bluetooth Headphones,Electronics,2,$43.55,10,30-05-2024,Debit Card,Processing
+1482,162,5014,Coffee Maker,Home & Kitchen,4,$49.51,15,12-07-2025,Credit Card,Cancelled
+1483,33,5004,USB-C Cable,Electronics,5,$10.21,15,13-01-2023,Cash on Delivery,Returned
+1484,403,5002,Bluetooth Headphones,Electronics,1,$43.71,10,02-01-2025,Cash on Delivery,Processing
+1485,196,5020,Notebook Set,Stationery,1,$7.29,20,30-07-2024,PayPal,Delivered
+1486,201,5016,Blender,Home & Kitchen,2,$33.72,0,28-12-2025,Net Banking,Processing
+1487,285,5005,Mechanical Keyboard,Electronics,3,$80.42,0,03-02-2025,Debit Card,Delivered
+1488,281,5002,Bluetooth Headphones,Electronics,1,$45.02,10,18-03-2026,Credit Card,Processing
+1489,436,5007,Running Shoes,Sports,3,$67.64,5,09-03-2024,Net Banking,Shipped
+1490,100,5006,Yoga Mat,Sports,2,$22.74,10,28-03-2024,Credit Card,Shipped
+1491,38,5019,Cookbook,Books,1,$19.26,5,29-01-2026,UPI,Delivered
+1492,488,5009,Dumbbell Set,Sports,1,$90.72,15,09-02-2024,UPI,Processing
+1493,461,5005,Mechanical Keyboard,Electronics,2,$80.95,0,24-07-2023,Debit Card,Processing
+1494,356,5016,Blender,Home & Kitchen,4,$35.55,10,03-11-2024,Net Banking,Shipped
+1495,220,5019,Cookbook,Books,5,$18.64,20,16-01-2025,Debit Card,Delivered
+1496,224,5011,Denim Jeans,Clothing,2,$40.95,15,29-03-2024,UPI,Processing
+1497,397,5005,Mechanical Keyboard,Electronics,3,$79.55,5,09-09-2025,UPI,Cancelled
+1498,431,5018,Novel - Fiction,Books,1,$12.12,15,26-12-2023,UPI,Shipped
+1499,40,5018,Novel - Fiction,Books,2,$12.45,15,23-06-2024,Cash on Delivery,Delivered
+1500,208,5001,Wireless Mouse,Electronics,5,$16.12,20,05-03-2023,Net Banking,Shipped
+1501,277,5002,Bluetooth Headphones,Electronics,5,$47.29,10,17-06-2024,PayPal,Shipped
+1502,439,5012,Winter Jacket,Clothing,4,$100.89,20,02-04-2024,UPI,Shipped
+1503,258,5015,Non-stick Pan,Home & Kitchen,5,$24.73,0,11-11-2025,Credit Card,Shipped
+1504,92,5020,Notebook Set,Stationery,2,$6.95,0,18-11-2025,Net Banking,Returned
+1505,250,5005,Mechanical Keyboard,Electronics,4,$77.74,0,04-01-2025,Debit Card,Delivered
+1506,266,5009,Dumbbell Set,Sports,3,$91.51,0,24-04-2024,UPI,Cancelled
+1507,166,5016,Blender,Home & Kitchen,4,$36.67,0,06-04-2023,Credit Card,Returned
+1508,193,5009,Dumbbell Set,Sports,3,$90.62,10,31-03-2026,Cash on Delivery,Cancelled
+1509,499,5012,Winter Jacket,Clothing,5,$97.51,10,09-06-2023,Debit Card,Returned
+1510,455,5013,Sneakers,Clothing,3,$56.61,5,07-12-2024,Net Banking,Delivered
+1511,264,5017,Table Lamp,Home & Kitchen,2,$26.76,0,19-06-2025,Cash on Delivery,Processing
+1512,368,5007,Running Shoes,Sports,2,$64.10,0,18-01-2024,Credit Card,Shipped
+1513,246,5014,Coffee Maker,Home & Kitchen,3,$50.87,5,21-08-2023,Debit Card,Returned
+1514,294,5006,Yoga Mat,Sports,4,$20.99,0,15-02-2023,Net Banking,Shipped
+1515,86,5005,Mechanical Keyboard,Electronics,5,$77.17,10,22-03-2023,UPI,Shipped
+1516,450,5017,Table Lamp,Home & Kitchen,4,$27.88,10,12-05-2026,Cash on Delivery,Processing
+1517,445,5003,Laptop Stand,Electronics,2,$31.47,10,08-07-2025,PayPal,Shipped
+1518,421,5008,Water Bottle,Sports,4,$12.87,0,15-05-2026,Debit Card,Returned
+1519,473,5017,Table Lamp,Home & Kitchen,3,$28.01,15,10-12-2023,PayPal,Returned
+1520,56,5019,Cookbook,Books,1,$18.77,5,15-04-2024,Credit Card,Shipped
+1521,50,5017,Table Lamp,Home & Kitchen,5,$26.54,20,09-05-2025,Debit Card,Cancelled
+1522,386,5020,Notebook Set,Stationery,5,$7.01,20,21-03-2023,Credit Card,Delivered
+1523,460,5016,Blender,Home & Kitchen,2,$36.14,10,20-05-2026,Cash on Delivery,Cancelled
+1524,272,5017,Table Lamp,Home & Kitchen,4,$26.24,20,28-01-2025,PayPal,Shipped
+1525,465,5016,Blender,Home & Kitchen,4,$36.06,10,18-12-2024,Cash on Delivery,Returned
+1526,120,5004,USB-C Cable,Electronics,4,$9.97,0,02-10-2023,Credit Card,Processing
+1527,364,5020,Notebook Set,Stationery,5,$6.77,0,16-04-2025,Cash on Delivery,Delivered
+1528,336,5019,Cookbook,Books,5,$18.05,10,30-08-2023,Debit Card,Processing
+1529,300,5014,Coffee Maker,Home & Kitchen,3,$49.62,0,07-08-2023,UPI,Processing
+1530,349,5018,Novel - Fiction,Books,4,$12.12,0,02-03-2026,PayPal,Shipped
+1531,287,5014,Coffee Maker,Home & Kitchen,5,$48.38,5,15-02-2026,Net Banking,Cancelled
+1532,204,5009,Dumbbell Set,Sports,3,$92.46,0,29-03-2026,Cash on Delivery,Shipped
+1533,83,5004,USB-C Cable,Electronics,2,$10.19,20,03-07-2025,Credit Card,Shipped
+1534,357,5017,Table Lamp,Home & Kitchen,4,$27.64,20,24-11-2024,Cash on Delivery,Delivered
+1535,75,5006,Yoga Mat,Sports,4,$21.10,20,11-01-2023,PayPal,Returned
+1536,41,5014,Coffee Maker,Home & Kitchen,1,$48.60,0,12-05-2023,Net Banking,Delivered
+1537,365,5013,Sneakers,Clothing,4,$55.12,15,11-06-2026,Net Banking,Delivered
+1538,337,5006,Yoga Mat,Sports,4,$21.34,0,18-06-2025,Net Banking,Processing
+1539,119,5007,Running Shoes,Sports,1,$65.10,10,12-05-2026,Net Banking,Shipped
+1540,81,5002,Bluetooth Headphones,Electronics,3,$43.23,15,04-05-2024,Credit Card,Processing
+1541,266,5013,Sneakers,Clothing,3,$55.47,5,20-03-2025,Credit Card,Delivered
+1542,469,5003,Laptop Stand,Electronics,5,$30.98,15,05-08-2024,Net Banking,Processing
+1543,233,5012,Winter Jacket,Clothing,3,$104.62,10,08-04-2024,PayPal,Returned
+1544,287,5001,Wireless Mouse,Electronics,3,$16.00,5,25-12-2023,Credit Card,Returned
+1545,132,5010,Cotton T-Shirt,Clothing,3,$15.01,20,28-08-2023,Net Banking,Returned
+1546,125,5009,Dumbbell Set,Sports,4,$89.84,10,11-02-2025,UPI,Cancelled
+1547,35,5015,Non-stick Pan,Home & Kitchen,5,$24.03,5,26-02-2023,PayPal,Shipped
+1548,5,5008,Water Bottle,Sports,3,$12.52,0,24-04-2025,Cash on Delivery,Processing
+1549,421,5008,Water Bottle,Sports,3,$12.72,5,10-07-2023,UPI,Delivered
+1550,458,5018,Novel - Fiction,Books,2,$11.81,0,02-09-2025,Net Banking,Processing
+1551,377,5006,Yoga Mat,Sports,2,$21.34,15,18-10-2025,Debit Card,Processing
+1552,317,5007,Running Shoes,Sports,2,$63.37,20,20-02-2024,UPI,Shipped
+1553,253,5004,USB-C Cable,Electronics,1,$10.45,15,10-06-2023,Net Banking,Delivered
+1554,253,5018,Novel - Fiction,Books,1,$12.13,0,14-09-2025,Net Banking,Processing
+1555,385,5016,Blender,Home & Kitchen,2,$34.63,0,12-11-2025,Net Banking,Shipped
+1556,17,5002,Bluetooth Headphones,Electronics,5,$47.50,5,16-05-2025,Net Banking,Processing
+1557,236,5013,Sneakers,Clothing,2,$56.09,0,25-07-2025,UPI,Delivered
+1558,186,5001,Wireless Mouse,Electronics,2,$15.35,10,16-02-2025,Net Banking,Processing
+1559,491,5006,Yoga Mat,Sports,5,$21.49,0,22-06-2024,Net Banking,Processing
+1560,359,5012,Winter Jacket,Clothing,2,$97.10,5,18-10-2025,UPI,Processing
+1561,295,5013,Sneakers,Clothing,3,$55.39,0,12-07-2025,Cash on Delivery,Shipped
+1562,196,5004,USB-C Cable,Electronics,3,$9.92,10,27-04-2024,Debit Card,Shipped
+1563,69,5005,Mechanical Keyboard,Electronics,4,$79.36,0,20-01-2023,Cash on Delivery,Returned
+1564,440,5018,Novel - Fiction,Books,3,$11.69,0,23-09-2025,Net Banking,Delivered
+1565,131,5013,Sneakers,Clothing,1,$53.44,0,01-12-2023,PayPal,Delivered
+1566,286,5015,Non-stick Pan,Home & Kitchen,3,$24.64,0,16-06-2024,UPI,Processing
+1567,494,5001,Wireless Mouse,Electronics,4,$16.58,0,06-09-2023,Net Banking,Shipped
+1568,146,5019,Cookbook,Books,5,$19.90,0,07-01-2026,UPI,Processing
+1569,147,5017,Table Lamp,Home & Kitchen,4,$27.17,0,04-07-2025,PayPal,Shipped
+1570,208,5006,Yoga Mat,Sports,3,$22.25,15,13-05-2025,Credit Card,Delivered
+1571,150,5006,Yoga Mat,Sports,3,$21.60,0,12-04-2024,Cash on Delivery,Processing
+1572,481,5020,Notebook Set,Stationery,4,$7.19,5,09-07-2024,UPI,Returned
+1573,12,5017,Table Lamp,Home & Kitchen,4,$26.63,0,27-04-2025,Debit Card,Shipped
+1574,49,5009,Dumbbell Set,Sports,1,$89.06,0,07-03-2024,Credit Card,Cancelled
+1575,392,5018,Novel - Fiction,Books,1,$11.87,20,23-02-2023,Credit Card,Delivered
+1576,454,5009,Dumbbell Set,Sports,5,$91.38,0,15-11-2023,PayPal,Processing
+1577,68,5008,Water Bottle,Sports,2,$12.66,5,04-08-2024,Net Banking,Shipped
+1578,443,5001,Wireless Mouse,Electronics,1,$16.65,20,31-12-2024,PayPal,Cancelled
+1579,486,5018,Novel - Fiction,Books,3,$11.55,5,28-01-2026,Cash on Delivery,Returned
+1580,326,5006,Yoga Mat,Sports,5,$22.29,5,08-05-2026,Net Banking,Cancelled
+1581,117,5017,Table Lamp,Home & Kitchen,5,$27.45,0,26-09-2024,Credit Card,Cancelled
+1582,6,5010,Cotton T-Shirt,Clothing,3,$14.47,0,24-04-2025,Credit Card,Returned
+1583,353,5005,Mechanical Keyboard,Electronics,3,$80.27,5,10-08-2024,PayPal,Cancelled
+1584,119,5010,Cotton T-Shirt,Clothing,1,$14.68,20,31-05-2025,Credit Card,Returned
+1585,128,5012,Winter Jacket,Clothing,2,$99.36,10,23-04-2025,Debit Card,Cancelled
+1586,123,5013,Sneakers,Clothing,2,$54.57,0,22-06-2024,Net Banking,Returned
+1587,97,5009,Dumbbell Set,Sports,3,$87.91,20,25-12-2025,Credit Card,Shipped
+1588,232,5005,Mechanical Keyboard,Electronics,3,$79.63,15,15-08-2023,UPI,Returned
+1589,497,5016,Blender,Home & Kitchen,2,$33.77,0,18-10-2024,Net Banking,Delivered
+1590,225,5006,Yoga Mat,Sports,1,$21.18,0,31-07-2024,Cash on Delivery,Delivered
+1591,176,5008,Water Bottle,Sports,1,$12.49,0,05-11-2023,PayPal,Processing
+1592,170,5016,Blender,Home & Kitchen,3,$36.01,15,07-08-2025,Credit Card,Shipped
+1593,93,5002,Bluetooth Headphones,Electronics,3,$45.70,0,14-03-2025,Debit Card,Processing
+1594,198,5013,Sneakers,Clothing,1,$56.18,20,07-09-2023,PayPal,Shipped
+1595,267,5002,Bluetooth Headphones,Electronics,2,$46.73,15,01-08-2025,Cash on Delivery,Shipped
+1596,373,5016,Blender,Home & Kitchen,4,$33.80,0,01-10-2024,Credit Card,Returned
+1597,102,5017,Table Lamp,Home & Kitchen,1,$27.88,5,02-06-2024,UPI,Delivered
+1598,8,5007,Running Shoes,Sports,1,$64.57,15,28-04-2024,Debit Card,Processing
+1599,497,5019,Cookbook,Books,1,$18.50,20,21-03-2025,Credit Card,Returned
+1600,128,5016,Blender,Home & Kitchen,5,$35.94,0,14-11-2023,Debit Card,Cancelled
+1601,31,5003,Laptop Stand,Electronics,5,$30.37,20,24-11-2024,UPI,Shipped
+1602,286,5018,Novel - Fiction,Books,1,$11.67,5,15-09-2023,Cash on Delivery,Processing
+1603,371,5015,Non-stick Pan,Home & Kitchen,2,$24.68,15,13-02-2023,Debit Card,Processing
+1604,357,5002,Bluetooth Headphones,Electronics,4,$44.57,10,15-06-2025,PayPal,Shipped
+1605,240,5019,Cookbook,Books,2,$18.66,0,18-01-2026,UPI,Returned
+1606,152,5018,Novel - Fiction,Books,2,$11.58,10,22-05-2023,UPI,Returned
+1607,195,5012,Winter Jacket,Clothing,4,$101.37,20,02-01-2023,Cash on Delivery,Shipped
+1608,165,5001,Wireless Mouse,Electronics,5,$16.18,20,15-01-2025,Cash on Delivery,Delivered
+1609,393,5018,Novel - Fiction,Books,4,$12.21,10,24-01-2024,Net Banking,Shipped
+1610,57,5020,Notebook Set,Stationery,3,$7.09,5,22-10-2024,Credit Card,Returned
+1611,104,5003,Laptop Stand,Electronics,1,$31.11,0,23-09-2023,Credit Card,Cancelled
+1612,199,5007,Running Shoes,Sports,1,$65.92,10,07-03-2023,Cash on Delivery,Cancelled
+1613,114,5017,Table Lamp,Home & Kitchen,5,$26.26,0,23-04-2026,Net Banking,Delivered
+1614,411,5001,Wireless Mouse,Electronics,2,$15.32,20,03-10-2025,Cash on Delivery,Delivered
+1615,363,5012,Winter Jacket,Clothing,5,$98.68,20,01-05-2025,Credit Card,Returned
+1616,156,5009,Dumbbell Set,Sports,5,$86.12,15,25-03-2023,Credit Card,Shipped
+1617,198,5017,Table Lamp,Home & Kitchen,1,$26.76,15,27-07-2023,Debit Card,Shipped
+1618,286,5017,Table Lamp,Home & Kitchen,2,$28.73,15,13-03-2026,Cash on Delivery,Returned
+1619,360,5014,Coffee Maker,Home & Kitchen,1,$50.86,0,26-03-2026,Cash on Delivery,Cancelled
+1620,173,5004,USB-C Cable,Electronics,2,$9.89,10,05-01-2024,Cash on Delivery,Shipped
+1621,282,5018,Novel - Fiction,Books,5,$12.47,0,26-06-2025,UPI,Processing
+1622,280,5014,Coffee Maker,Home & Kitchen,4,$48.69,10,24-10-2024,Debit Card,Cancelled
+1623,204,5018,Novel - Fiction,Books,3,$11.93,5,07-01-2025,Credit Card,Delivered
+1624,456,5010,Cotton T-Shirt,Clothing,5,$14.44,10,03-02-2023,UPI,Delivered
+1625,396,5010,Cotton T-Shirt,Clothing,2,$14.71,20,15-03-2024,Cash on Delivery,Processing
+1626,80,5018,Novel - Fiction,Books,5,$12.50,10,13-02-2026,Credit Card,Delivered
+1627,456,5015,Non-stick Pan,Home & Kitchen,3,$24.40,0,16-11-2023,Net Banking,Shipped
+1628,292,5008,Water Bottle,Sports,3,$12.59,0,07-09-2024,Debit Card,Delivered
+1629,354,5011,Denim Jeans,Clothing,4,$41.29,5,21-12-2023,Cash on Delivery,Returned
+1630,296,5004,USB-C Cable,Electronics,5,$10.22,0,07-09-2024,PayPal,Delivered
+1631,477,5002,Bluetooth Headphones,Electronics,3,$45.20,20,13-12-2024,Credit Card,Shipped
+1632,22,5020,Notebook Set,Stationery,1,$6.85,0,22-02-2025,UPI,Returned
+1633,79,5019,Cookbook,Books,2,$19.37,10,31-10-2024,Credit Card,Cancelled
+1634,222,5015,Non-stick Pan,Home & Kitchen,5,$23.97,10,24-03-2026,UPI,Cancelled
+1635,382,5005,Mechanical Keyboard,Electronics,2,$79.80,0,19-11-2024,Credit Card,Returned
+1636,397,5013,Sneakers,Clothing,3,$55.01,5,24-06-2023,Cash on Delivery,Shipped
+1637,334,5005,Mechanical Keyboard,Electronics,4,$79.89,0,19-02-2026,Net Banking,Shipped
+1638,137,5018,Novel - Fiction,Books,5,$11.68,0,09-12-2025,PayPal,Processing
+1639,188,5019,Cookbook,Books,1,$18.83,15,19-08-2023,UPI,Shipped
+1640,157,5011,Denim Jeans,Clothing,3,$38.09,15,01-05-2026,Debit Card,Processing
+1641,474,5020,Notebook Set,Stationery,4,$6.95,0,30-06-2026,Debit Card,Shipped
+1642,125,5012,Winter Jacket,Clothing,2,$102.39,0,25-06-2023,Net Banking,Shipped
+1643,157,5010,Cotton T-Shirt,Clothing,1,$15.45,15,04-12-2024,PayPal,Cancelled
+1644,105,5001,Wireless Mouse,Electronics,3,$16.05,15,04-03-2024,Net Banking,Returned
+1645,73,5009,Dumbbell Set,Sports,5,$92.06,10,16-09-2025,Cash on Delivery,Delivered
+1646,31,5013,Sneakers,Clothing,5,$53.66,0,14-12-2025,UPI,Shipped
+1647,5,5020,Notebook Set,Stationery,3,$7.10,5,19-04-2023,Credit Card,Cancelled
+1648,453,5009,Dumbbell Set,Sports,3,$88.12,0,09-08-2023,Cash on Delivery,Cancelled
+1649,162,5008,Water Bottle,Sports,4,$12.00,15,07-11-2025,PayPal,Returned
+1650,235,5018,Novel - Fiction,Books,1,$11.99,0,17-01-2024,Net Banking,Delivered
+1651,202,5002,Bluetooth Headphones,Electronics,2,$44.74,0,20-12-2025,Cash on Delivery,Shipped
+1652,121,5001,Wireless Mouse,Electronics,3,$16.19,0,21-12-2024,Net Banking,Processing
+1653,484,5002,Bluetooth Headphones,Electronics,3,$47.73,20,03-03-2025,Net Banking,Processing
+1654,45,5008,Water Bottle,Sports,2,$12.70,5,30-11-2024,Cash on Delivery,Cancelled
+1655,79,5017,Table Lamp,Home & Kitchen,5,$26.79,5,10-04-2024,PayPal,Processing
+1656,335,5020,Notebook Set,Stationery,3,$6.73,10,08-07-2025,Debit Card,Returned
+1657,461,5018,Novel - Fiction,Books,2,$12.22,0,10-10-2023,Net Banking,Shipped
+1658,286,5014,Coffee Maker,Home & Kitchen,2,$49.08,0,02-03-2026,Net Banking,Delivered
+1659,164,5006,Yoga Mat,Sports,3,$20.96,15,26-10-2023,PayPal,Cancelled
+1660,55,5010,Cotton T-Shirt,Clothing,4,$15.41,0,14-07-2024,Debit Card,Shipped
+1661,314,5001,Wireless Mouse,Electronics,5,$16.16,0,17-06-2026,Debit Card,Returned
+1662,400,5008,Water Bottle,Sports,2,$11.97,0,23-02-2023,PayPal,Shipped
+1663,95,5017,Table Lamp,Home & Kitchen,5,$27.91,15,18-08-2025,PayPal,Cancelled
+1664,210,5016,Blender,Home & Kitchen,2,$34.03,0,02-12-2023,Credit Card,Processing
+1665,91,5014,Coffee Maker,Home & Kitchen,2,$48.51,20,20-02-2024,PayPal,Returned
+1666,398,5016,Blender,Home & Kitchen,3,$34.74,0,26-07-2025,Credit Card,Returned
+1667,293,5013,Sneakers,Clothing,3,$57.42,10,18-03-2025,Net Banking,Returned
+1668,424,5017,Table Lamp,Home & Kitchen,1,$27.37,0,02-12-2025,Credit Card,Shipped
+1669,199,5017,Table Lamp,Home & Kitchen,5,$26.23,15,21-03-2025,Net Banking,Delivered
+1670,397,5007,Running Shoes,Sports,3,$67.50,5,19-06-2025,UPI,Cancelled
+1671,354,5006,Yoga Mat,Sports,4,$22.92,10,25-08-2024,Net Banking,Shipped
+1672,93,5015,Non-stick Pan,Home & Kitchen,4,$24.99,15,05-07-2023,Net Banking,Returned
+1673,92,5005,Mechanical Keyboard,Electronics,4,$79.60,0,26-04-2025,PayPal,Returned
+1674,333,5007,Running Shoes,Sports,4,$63.86,0,04-07-2023,Cash on Delivery,Shipped
+1675,186,5004,USB-C Cable,Electronics,1,$9.94,15,22-08-2023,Credit Card,Returned
+1676,195,5013,Sneakers,Clothing,5,$54.33,0,07-06-2026,Credit Card,Shipped
+1677,92,5011,Denim Jeans,Clothing,5,$41.46,0,04-11-2023,Cash on Delivery,Delivered
+1678,229,5014,Coffee Maker,Home & Kitchen,3,$51.33,15,25-09-2024,UPI,Shipped
+1679,130,5004,USB-C Cable,Electronics,2,$10.11,0,20-02-2024,Credit Card,Cancelled
+1680,452,5016,Blender,Home & Kitchen,4,$33.26,20,18-01-2026,PayPal,Shipped
+1681,41,5007,Running Shoes,Sports,5,$64.42,5,01-09-2025,Net Banking,Returned
+1682,286,5001,Wireless Mouse,Electronics,2,$16.18,0,25-01-2026,Debit Card,Delivered
+1683,75,5006,Yoga Mat,Sports,2,$21.67,15,23-04-2023,Credit Card,Returned
+1684,214,5020,Notebook Set,Stationery,3,$6.67,0,09-11-2024,Debit Card,Shipped
+1685,91,5010,Cotton T-Shirt,Clothing,5,$15.42,10,03-05-2026,PayPal,Returned
+1686,189,5012,Winter Jacket,Clothing,1,$97.98,20,10-07-2023,PayPal,Delivered
+1687,63,5014,Coffee Maker,Home & Kitchen,5,$49.84,0,13-05-2023,Cash on Delivery,Processing
+1688,108,5011,Denim Jeans,Clothing,5,$38.83,10,27-04-2025,Net Banking,Delivered
+1689,353,5004,USB-C Cable,Electronics,5,$9.97,0,19-12-2025,Net Banking,Processing
+1690,320,5014,Coffee Maker,Home & Kitchen,5,$50.12,0,10-10-2024,UPI,Shipped
+1691,255,5020,Notebook Set,Stationery,5,$7.15,10,13-10-2025,PayPal,Shipped
+1692,13,5020,Notebook Set,Stationery,2,$6.64,0,17-08-2024,PayPal,Delivered
+1693,180,5007,Running Shoes,Sports,5,$62.05,5,29-04-2025,Net Banking,Shipped
+1694,158,5001,Wireless Mouse,Electronics,2,$16.45,0,30-07-2024,UPI,Returned
+1695,175,5018,Novel - Fiction,Books,3,$12.21,0,13-01-2023,PayPal,Returned
+1696,174,5020,Notebook Set,Stationery,1,$6.87,0,26-12-2023,Cash on Delivery,Cancelled
+1697,236,5016,Blender,Home & Kitchen,1,$33.78,5,06-10-2023,Net Banking,Processing
+1698,290,5015,Non-stick Pan,Home & Kitchen,4,$25.04,20,25-04-2023,Cash on Delivery,Processing
+1699,170,5018,Novel - Fiction,Books,5,$12.08,0,08-02-2023,UPI,Delivered
+1700,321,5005,Mechanical Keyboard,Electronics,3,$83.86,0,05-03-2023,Net Banking,Shipped
+1701,443,5019,Cookbook,Books,5,$19.17,0,08-03-2025,UPI,Processing
+1702,122,5002,Bluetooth Headphones,Electronics,3,$45.49,0,27-04-2025,UPI,Cancelled
+1703,192,5010,Cotton T-Shirt,Clothing,2,$14.50,0,11-12-2025,Credit Card,Shipped
+1704,464,5003,Laptop Stand,Electronics,4,$30.89,0,02-11-2025,Net Banking,Shipped
+1705,159,5007,Running Shoes,Sports,3,$67.43,15,17-09-2025,UPI,Shipped
+1706,236,5004,USB-C Cable,Electronics,5,$10.21,0,29-09-2023,PayPal,Returned
+1707,305,5004,USB-C Cable,Electronics,1,$10.18,0,28-09-2024,Credit Card,Processing
+1708,382,5015,Non-stick Pan,Home & Kitchen,1,$25.66,10,31-07-2023,UPI,Delivered
+1709,147,5019,Cookbook,Books,3,$18.42,0,05-03-2024,UPI,Returned
+1710,141,5011,Denim Jeans,Clothing,4,$38.59,0,29-08-2023,Credit Card,Delivered
+1711,180,5020,Notebook Set,Stationery,5,$6.78,0,18-11-2025,Net Banking,Processing
+1712,37,5009,Dumbbell Set,Sports,2,$87.69,10,03-08-2024,UPI,Returned
+1713,242,5011,Denim Jeans,Clothing,5,$38.51,0,27-06-2025,Cash on Delivery,Delivered
+1714,92,5004,USB-C Cable,Electronics,4,$9.92,0,21-04-2023,Cash on Delivery,Returned
+1715,419,5019,Cookbook,Books,4,$18.63,0,16-06-2026,Debit Card,Returned
+1716,411,5003,Laptop Stand,Electronics,4,$28.77,0,08-03-2026,Cash on Delivery,Cancelled
+1717,393,5004,USB-C Cable,Electronics,4,$10.13,15,27-09-2024,PayPal,Cancelled
+1718,133,5008,Water Bottle,Sports,2,$12.99,20,22-10-2023,UPI,Cancelled
+1719,34,5006,Yoga Mat,Sports,3,$21.97,5,27-10-2024,PayPal,Delivered
+1720,394,5012,Winter Jacket,Clothing,4,$96.70,20,02-08-2025,UPI,Returned
+1721,366,5019,Cookbook,Books,2,$18.81,0,06-11-2025,Credit Card,Processing
+1722,303,5018,Novel - Fiction,Books,1,$11.94,10,10-09-2024,PayPal,Shipped
+1723,197,5020,Notebook Set,Stationery,2,$7.32,0,27-01-2026,Credit Card,Processing
+1724,291,5007,Running Shoes,Sports,5,$68.12,20,01-06-2025,UPI,Returned
+1725,294,5008,Water Bottle,Sports,2,$13.04,15,09-06-2023,PayPal,Delivered
+1726,421,5019,Cookbook,Books,5,$19.09,0,06-08-2025,PayPal,Shipped
+1727,417,5010,Cotton T-Shirt,Clothing,4,$14.40,10,23-05-2023,Net Banking,Cancelled
+1728,72,5011,Denim Jeans,Clothing,4,$38.86,0,06-05-2023,Net Banking,Delivered
+1729,316,5005,Mechanical Keyboard,Electronics,2,$78.32,10,16-07-2025,Net Banking,Cancelled
+1730,468,5007,Running Shoes,Sports,2,$65.46,0,10-10-2024,Cash on Delivery,Processing
+1731,262,5014,Coffee Maker,Home & Kitchen,3,$47.53,10,02-07-2023,PayPal,Shipped
+1732,1,5010,Cotton T-Shirt,Clothing,1,$15.69,10,26-01-2025,Cash on Delivery,Returned
+1733,222,5012,Winter Jacket,Clothing,1,$95.30,20,31-07-2024,Cash on Delivery,Returned
+1734,280,5013,Sneakers,Clothing,3,$54.35,5,22-02-2025,Debit Card,Shipped
+1735,474,5016,Blender,Home & Kitchen,2,$34.59,10,21-01-2024,UPI,Cancelled
+1736,332,5005,Mechanical Keyboard,Electronics,3,$76.08,0,15-09-2023,Credit Card,Shipped
+1737,413,5016,Blender,Home & Kitchen,4,$33.72,0,06-10-2023,PayPal,Cancelled
+1738,218,5020,Notebook Set,Stationery,4,$6.96,0,30-06-2026,Net Banking,Cancelled
+1739,4,5013,Sneakers,Clothing,3,$54.59,0,07-04-2024,Net Banking,Cancelled
+1740,296,5008,Water Bottle,Sports,5,$13.03,5,05-07-2024,UPI,Delivered
+1741,298,5002,Bluetooth Headphones,Electronics,5,$44.90,15,16-09-2025,PayPal,Delivered
+1742,268,5005,Mechanical Keyboard,Electronics,5,$80.13,5,26-07-2024,Net Banking,Delivered
+1743,409,5008,Water Bottle,Sports,4,$12.67,15,09-06-2023,Net Banking,Processing
+1744,241,5020,Notebook Set,Stationery,1,$7.18,10,04-12-2024,PayPal,Returned
+1745,409,5016,Blender,Home & Kitchen,5,$34.48,5,09-11-2024,UPI,Processing
+1746,402,5006,Yoga Mat,Sports,1,$21.57,15,08-05-2026,Net Banking,Processing
+1747,337,5002,Bluetooth Headphones,Electronics,4,$45.83,0,30-03-2026,UPI,Returned
+1748,40,5001,Wireless Mouse,Electronics,3,$15.39,0,19-09-2025,UPI,Processing
+1749,8,5005,Mechanical Keyboard,Electronics,5,$82.85,0,29-07-2024,Cash on Delivery,Delivered
+1750,229,5020,Notebook Set,Stationery,2,$6.75,15,26-04-2026,UPI,Shipped
+1751,442,5009,Dumbbell Set,Sports,2,$92.68,0,20-09-2025,Credit Card,Processing
+1752,254,5003,Laptop Stand,Electronics,2,$28.95,20,04-05-2026,PayPal,Cancelled
+1753,432,5008,Water Bottle,Sports,4,$12.60,0,09-12-2023,UPI,Delivered
+1754,244,5009,Dumbbell Set,Sports,1,$89.67,0,18-04-2023,UPI,Cancelled
+1755,243,5018,Novel - Fiction,Books,2,$12.24,15,16-02-2025,UPI,Shipped
+1756,230,5017,Table Lamp,Home & Kitchen,4,$28.67,0,25-01-2023,PayPal,Processing
+1757,490,5017,Table Lamp,Home & Kitchen,1,$27.88,10,19-07-2023,PayPal,Returned
+1758,131,5009,Dumbbell Set,Sports,3,$92.71,0,07-07-2024,Cash on Delivery,Returned
+1759,395,5013,Sneakers,Clothing,4,$55.95,15,10-05-2024,Debit Card,Returned
+1760,5,5011,Denim Jeans,Clothing,2,$38.03,10,03-10-2024,Credit Card,Delivered
+1761,180,5014,Coffee Maker,Home & Kitchen,1,$50.92,0,11-12-2025,Debit Card,Processing
+1762,30,5009,Dumbbell Set,Sports,2,$91.06,0,11-03-2023,Net Banking,Shipped
+1763,67,5020,Notebook Set,Stationery,1,$7.24,0,03-09-2023,PayPal,Returned
+1764,339,5006,Yoga Mat,Sports,1,$21.55,0,13-01-2024,Credit Card,Cancelled
+1765,38,5009,Dumbbell Set,Sports,4,$86.95,0,24-10-2024,UPI,Delivered
+1766,417,5013,Sneakers,Clothing,4,$53.67,0,12-11-2024,UPI,Shipped
+1767,92,5015,Non-stick Pan,Home & Kitchen,1,$25.27,0,04-10-2025,Cash on Delivery,Cancelled
+1768,315,5004,USB-C Cable,Electronics,2,$9.92,20,12-01-2026,Cash on Delivery,Delivered
+1769,293,5015,Non-stick Pan,Home & Kitchen,3,$23.92,0,31-07-2023,Cash on Delivery,Processing
+1770,1,5015,Non-stick Pan,Home & Kitchen,1,$25.37,0,16-10-2025,Credit Card,Cancelled
+1771,264,5009,Dumbbell Set,Sports,2,$90.66,5,06-11-2024,Cash on Delivery,Cancelled
+1772,416,5016,Blender,Home & Kitchen,4,$35.79,20,07-04-2025,Credit Card,Returned
+1773,247,5008,Water Bottle,Sports,1,$12.90,15,26-02-2025,Credit Card,Returned
+1774,29,5018,Novel - Fiction,Books,3,$11.75,15,13-11-2024,Cash on Delivery,Delivered
+1775,390,5012,Winter Jacket,Clothing,5,$103.40,0,27-11-2024,UPI,Shipped
+1776,154,5006,Yoga Mat,Sports,5,$22.35,5,22-03-2023,Cash on Delivery,Cancelled
+1777,225,5004,USB-C Cable,Electronics,3,$10.37,0,23-09-2025,Cash on Delivery,Shipped
+1778,304,5005,Mechanical Keyboard,Electronics,1,$81.75,0,31-01-2024,Debit Card,Cancelled
+1779,274,5013,Sneakers,Clothing,1,$53.94,15,12-01-2026,PayPal,Delivered
+1780,22,5002,Bluetooth Headphones,Electronics,3,$46.81,0,25-04-2023,PayPal,Delivered
+1781,275,5007,Running Shoes,Sports,5,$67.41,15,27-07-2025,Debit Card,Returned
+1782,335,5008,Water Bottle,Sports,1,$12.05,15,17-03-2023,Credit Card,Cancelled
+1783,8,5020,Notebook Set,Stationery,1,$7.09,15,12-05-2024,Debit Card,Delivered
+1784,303,5010,Cotton T-Shirt,Clothing,1,$14.50,10,23-07-2025,Credit Card,Delivered
+1785,33,5004,USB-C Cable,Electronics,4,$10.11,20,03-05-2026,Debit Card,Cancelled
+1786,295,5011,Denim Jeans,Clothing,4,$41.89,0,26-10-2024,Net Banking,Shipped
+1787,33,5011,Denim Jeans,Clothing,2,$38.68,10,04-04-2023,Credit Card,Processing
+1788,85,5005,Mechanical Keyboard,Electronics,4,$78.95,15,11-12-2023,PayPal,Shipped
+1789,324,5019,Cookbook,Books,1,$19.54,0,01-10-2023,Net Banking,Cancelled
+1790,92,5006,Yoga Mat,Sports,1,$20.91,0,24-09-2025,Credit Card,Returned
+1791,74,5010,Cotton T-Shirt,Clothing,4,$14.43,15,01-09-2025,Cash on Delivery,Processing
+1792,313,5017,Table Lamp,Home & Kitchen,4,$28.70,0,23-04-2025,Cash on Delivery,Delivered
+1793,322,5020,Notebook Set,Stationery,2,$7.30,10,20-10-2025,UPI,Processing
+1794,272,5014,Coffee Maker,Home & Kitchen,1,$48.45,0,16-02-2026,Credit Card,Returned
+1795,321,5012,Winter Jacket,Clothing,5,$99.63,0,05-11-2025,Cash on Delivery,Shipped
+1796,351,5009,Dumbbell Set,Sports,1,$92.66,0,01-02-2024,PayPal,Cancelled
+1797,146,5006,Yoga Mat,Sports,2,$22.32,0,30-03-2023,Debit Card,Cancelled
+1798,233,5009,Dumbbell Set,Sports,3,$93.50,20,17-06-2026,Credit Card,Delivered
+1799,249,5002,Bluetooth Headphones,Electronics,5,$46.80,0,27-12-2023,Net Banking,Delivered
+1800,215,5003,Laptop Stand,Electronics,2,$30.23,10,29-06-2025,Debit Card,Processing
+1801,378,5008,Water Bottle,Sports,1,$12.00,0,29-10-2024,PayPal,Shipped
+1802,28,5013,Sneakers,Clothing,2,$55.47,5,31-05-2023,PayPal,Shipped
+1803,70,5007,Running Shoes,Sports,5,$64.27,0,20-07-2025,PayPal,Shipped
+1804,355,5012,Winter Jacket,Clothing,3,$96.26,0,19-02-2024,Net Banking,Delivered
+1805,215,5009,Dumbbell Set,Sports,2,$89.68,20,16-08-2023,Debit Card,Processing
+1806,327,5008,Water Bottle,Sports,3,$12.86,0,21-05-2026,Net Banking,Shipped
+1807,268,5019,Cookbook,Books,5,$18.82,0,15-04-2024,PayPal,Shipped
+1808,220,5019,Cookbook,Books,4,$18.07,0,05-08-2025,Cash on Delivery,Shipped
+1809,475,5008,Water Bottle,Sports,3,$12.15,10,08-06-2025,Net Banking,Shipped
+1810,241,5019,Cookbook,Books,1,$18.12,0,05-05-2025,Cash on Delivery,Returned
+1811,409,5002,Bluetooth Headphones,Electronics,4,$45.41,5,23-12-2025,Cash on Delivery,Delivered
+1812,7,5015,Non-stick Pan,Home & Kitchen,4,$25.14,0,07-05-2024,Cash on Delivery,Cancelled
+1813,47,5007,Running Shoes,Sports,2,$63.30,0,04-01-2025,Credit Card,Cancelled
+1814,299,5010,Cotton T-Shirt,Clothing,2,$15.10,20,29-07-2025,Credit Card,Cancelled
+1815,190,5015,Non-stick Pan,Home & Kitchen,2,$25.71,0,10-04-2025,Cash on Delivery,Cancelled
+1816,17,5001,Wireless Mouse,Electronics,1,$15.72,15,27-02-2025,UPI,Cancelled
+1817,404,5009,Dumbbell Set,Sports,5,$92.64,10,15-01-2026,Cash on Delivery,Delivered
+1818,346,5020,Notebook Set,Stationery,3,$7.30,10,23-04-2023,UPI,Delivered
+1819,188,5004,USB-C Cable,Electronics,4,$10.11,5,18-01-2025,UPI,Shipped
+1820,71,5018,Novel - Fiction,Books,1,$12.32,15,22-02-2026,UPI,Shipped
+1821,298,5018,Novel - Fiction,Books,1,$12.52,15,06-09-2025,Cash on Delivery,Shipped
+1822,217,5008,Water Bottle,Sports,3,$12.50,0,23-12-2024,UPI,Delivered
+1823,270,5003,Laptop Stand,Electronics,3,$29.95,5,08-12-2024,Credit Card,Cancelled
+1824,410,5018,Novel - Fiction,Books,5,$12.14,5,21-08-2024,Cash on Delivery,Delivered
+1825,92,5007,Running Shoes,Sports,4,$64.29,0,28-06-2023,UPI,Delivered
+1826,255,5004,USB-C Cable,Electronics,2,$10.19,0,19-07-2024,Debit Card,Shipped
+1827,278,5017,Table Lamp,Home & Kitchen,1,$28.79,5,23-08-2024,Debit Card,Cancelled
+1828,150,5012,Winter Jacket,Clothing,4,$101.44,15,28-06-2025,Debit Card,Delivered
+1829,297,5001,Wireless Mouse,Electronics,2,$15.73,15,30-11-2025,UPI,Processing
+1830,235,5016,Blender,Home & Kitchen,5,$35.16,20,21-12-2025,UPI,Returned
+1831,248,5005,Mechanical Keyboard,Electronics,3,$78.07,20,18-12-2023,UPI,Processing
+1832,86,5002,Bluetooth Headphones,Electronics,2,$45.30,0,24-12-2024,Net Banking,Shipped
+1833,355,5018,Novel - Fiction,Books,3,$12.40,0,09-01-2024,Cash on Delivery,Shipped
+1834,295,5006,Yoga Mat,Sports,2,$23.09,0,28-08-2023,Debit Card,Cancelled
+1835,18,5009,Dumbbell Set,Sports,3,$90.55,0,13-01-2024,Cash on Delivery,Processing
+1836,84,5012,Winter Jacket,Clothing,2,$100.39,5,02-02-2025,Net Banking,Processing
+1837,486,5004,USB-C Cable,Electronics,1,$10.26,5,08-04-2025,PayPal,Processing
+1838,362,5005,Mechanical Keyboard,Electronics,1,$78.64,10,23-01-2026,UPI,Cancelled
+1839,465,5010,Cotton T-Shirt,Clothing,5,$15.09,20,29-10-2023,PayPal,Processing
+1840,60,5004,USB-C Cable,Electronics,4,$10.17,0,24-03-2023,UPI,Delivered
+1841,168,5013,Sneakers,Clothing,5,$54.22,5,27-03-2024,Credit Card,Returned
+1842,393,5007,Running Shoes,Sports,5,$66.83,0,14-12-2025,UPI,Shipped
+1843,344,5001,Wireless Mouse,Electronics,1,$15.90,20,07-01-2026,Credit Card,Returned
+1844,262,5013,Sneakers,Clothing,2,$55.57,0,01-10-2025,Credit Card,Processing
+1845,7,5013,Sneakers,Clothing,2,$54.37,0,25-05-2025,UPI,Processing
+1846,111,5012,Winter Jacket,Clothing,3,$100.60,20,01-07-2025,Cash on Delivery,Cancelled
+1847,497,5014,Coffee Maker,Home & Kitchen,4,$51.52,0,14-08-2024,PayPal,Cancelled
+1848,156,5005,Mechanical Keyboard,Electronics,5,$77.14,0,09-05-2026,PayPal,Returned
+1849,4,5011,Denim Jeans,Clothing,1,$39.49,20,24-04-2026,PayPal,Processing
+1850,387,5014,Coffee Maker,Home & Kitchen,2,$51.04,5,12-02-2026,Debit Card,Shipped
+1851,422,5006,Yoga Mat,Sports,4,$21.98,10,15-08-2024,UPI,Returned
+1852,14,5010,Cotton T-Shirt,Clothing,4,$14.94,15,19-02-2026,Credit Card,Shipped
+1853,458,5009,Dumbbell Set,Sports,3,$91.37,0,25-08-2025,UPI,Cancelled
+1854,142,5006,Yoga Mat,Sports,4,$21.16,0,16-05-2024,PayPal,Delivered
+1855,445,5020,Notebook Set,Stationery,3,$7.04,5,05-04-2026,UPI,Cancelled
+1856,433,5004,USB-C Cable,Electronics,3,$10.07,15,15-11-2025,UPI,Shipped
+1857,355,5019,Cookbook,Books,1,$18.92,0,27-10-2023,Debit Card,Processing
+1858,467,5006,Yoga Mat,Sports,1,$21.82,0,12-07-2024,UPI,Delivered
+1859,264,5010,Cotton T-Shirt,Clothing,3,$15.64,15,20-12-2025,Debit Card,Shipped
+1860,162,5004,USB-C Cable,Electronics,5,$9.81,10,09-12-2023,Cash on Delivery,Processing
+1861,422,5009,Dumbbell Set,Sports,3,$90.71,10,16-07-2023,Debit Card,Delivered
+1862,211,5005,Mechanical Keyboard,Electronics,5,$82.22,0,30-07-2024,UPI,Shipped
+1863,97,5004,USB-C Cable,Electronics,2,$9.71,10,13-11-2023,Net Banking,Returned
+1864,59,5017,Table Lamp,Home & Kitchen,5,$28.20,15,02-02-2026,PayPal,Cancelled
+1865,160,5003,Laptop Stand,Electronics,1,$29.93,0,26-09-2023,Cash on Delivery,Processing
+1866,176,5005,Mechanical Keyboard,Electronics,4,$82.10,10,08-05-2026,Debit Card,Processing
+1867,73,5001,Wireless Mouse,Electronics,1,$16.56,0,31-03-2024,Cash on Delivery,Shipped
+1868,218,5010,Cotton T-Shirt,Clothing,2,$15.71,0,05-03-2024,Cash on Delivery,Delivered
+1869,101,5003,Laptop Stand,Electronics,1,$29.78,20,18-09-2025,Credit Card,Delivered
+1870,130,5017,Table Lamp,Home & Kitchen,5,$26.45,5,02-05-2023,Credit Card,Delivered
+1871,309,5010,Cotton T-Shirt,Clothing,1,$14.43,20,17-07-2023,Debit Card,Returned
+1872,434,5007,Running Shoes,Sports,2,$62.34,0,20-12-2024,Cash on Delivery,Processing
+1873,400,5019,Cookbook,Books,3,$19.66,0,22-12-2024,Cash on Delivery,Returned
+1874,297,5008,Water Bottle,Sports,5,$12.00,0,13-03-2026,Credit Card,Returned
+1875,276,5007,Running Shoes,Sports,2,$67.61,0,31-07-2024,Credit Card,Delivered
+1876,95,5007,Running Shoes,Sports,5,$66.29,0,30-08-2025,PayPal,Delivered
+1877,117,5006,Yoga Mat,Sports,3,$21.37,5,16-02-2025,PayPal,Delivered
+1878,254,5011,Denim Jeans,Clothing,1,$40.07,0,12-08-2025,UPI,Processing
+1879,198,5018,Novel - Fiction,Books,1,$11.98,0,18-06-2023,UPI,Cancelled
+1880,149,5020,Notebook Set,Stationery,3,$7.03,0,28-06-2025,PayPal,Shipped
+1881,346,5003,Laptop Stand,Electronics,4,$28.53,0,22-01-2025,PayPal,Delivered
+1882,62,5013,Sneakers,Clothing,4,$55.97,15,06-12-2025,Debit Card,Cancelled
+1883,87,5013,Sneakers,Clothing,5,$57.34,15,28-07-2023,Credit Card,Processing
+1884,207,5007,Running Shoes,Sports,3,$67.24,10,15-02-2024,Credit Card,Shipped
+1885,298,5014,Coffee Maker,Home & Kitchen,4,$51.06,20,24-07-2024,Net Banking,Processing
+1886,208,5013,Sneakers,Clothing,3,$55.57,15,01-09-2025,PayPal,Returned
+1887,251,5009,Dumbbell Set,Sports,2,$86.59,0,20-07-2025,PayPal,Shipped
+1888,35,5005,Mechanical Keyboard,Electronics,1,$76.41,15,23-07-2023,PayPal,Delivered
+1889,156,5006,Yoga Mat,Sports,4,$21.62,15,23-05-2026,Net Banking,Returned
+1890,239,5004,USB-C Cable,Electronics,1,$9.98,20,30-11-2025,Debit Card,Processing
+1891,415,5016,Blender,Home & Kitchen,4,$35.14,0,30-10-2025,Net Banking,Returned
+1892,162,5001,Wireless Mouse,Electronics,1,$15.80,0,31-05-2025,PayPal,Cancelled
+1893,441,5015,Non-stick Pan,Home & Kitchen,1,$25.13,0,09-03-2023,UPI,Shipped
+1894,250,5016,Blender,Home & Kitchen,4,$35.74,0,03-10-2023,Credit Card,Returned
+1895,288,5016,Blender,Home & Kitchen,5,$34.88,10,09-01-2026,Debit Card,Returned
+1896,194,5002,Bluetooth Headphones,Electronics,4,$45.91,5,23-06-2024,Net Banking,Processing
+1897,66,5010,Cotton T-Shirt,Clothing,3,$15.13,0,06-05-2023,UPI,Processing
+1898,177,5019,Cookbook,Books,1,$18.23,5,29-11-2024,UPI,Cancelled
+1899,160,5012,Winter Jacket,Clothing,1,$97.34,0,15-05-2024,Net Banking,Delivered
+1900,276,5003,Laptop Stand,Electronics,3,$29.00,0,23-08-2023,UPI,Delivered
+1901,137,5015,Non-stick Pan,Home & Kitchen,4,$25.99,10,09-03-2026,Credit Card,Cancelled
+1902,166,5019,Cookbook,Books,1,$19.12,5,10-10-2024,Net Banking,Delivered
+1903,416,5016,Blender,Home & Kitchen,1,$34.98,0,26-02-2024,Cash on Delivery,Processing
+1904,104,5006,Yoga Mat,Sports,5,$23.03,0,05-09-2024,PayPal,Delivered
+1905,294,5018,Novel - Fiction,Books,2,$11.45,0,11-08-2024,PayPal,Shipped
+1906,140,5020,Notebook Set,Stationery,1,$7.05,0,30-03-2026,Credit Card,Returned
+1907,40,5017,Table Lamp,Home & Kitchen,4,$27.08,0,24-05-2025,Cash on Delivery,Processing
+1908,103,5017,Table Lamp,Home & Kitchen,3,$27.61,15,05-06-2025,PayPal,Cancelled
+1909,281,5009,Dumbbell Set,Sports,5,$91.53,5,21-11-2025,Debit Card,Delivered
+1910,493,5017,Table Lamp,Home & Kitchen,2,$26.71,5,27-03-2026,Cash on Delivery,Cancelled
+1911,223,5009,Dumbbell Set,Sports,5,$92.41,20,12-06-2026,Net Banking,Delivered
+1912,78,5017,Table Lamp,Home & Kitchen,2,$26.53,5,16-01-2025,Cash on Delivery,Processing
+1913,33,5014,Coffee Maker,Home & Kitchen,4,$51.64,20,14-10-2024,Cash on Delivery,Shipped
+1914,352,5014,Coffee Maker,Home & Kitchen,3,$48.29,15,10-08-2024,Net Banking,Shipped
+1915,126,5013,Sneakers,Clothing,2,$53.31,0,21-08-2023,UPI,Cancelled
+1916,19,5016,Blender,Home & Kitchen,5,$35.50,5,12-06-2025,Debit Card,Shipped
+1917,143,5009,Dumbbell Set,Sports,2,$92.60,0,01-03-2023,Cash on Delivery,Returned
+1918,441,5006,Yoga Mat,Sports,1,$20.94,20,22-09-2025,Credit Card,Processing
+1919,344,5020,Notebook Set,Stationery,3,$7.27,5,11-05-2023,Cash on Delivery,Delivered
+1920,257,5013,Sneakers,Clothing,2,$55.39,0,28-04-2024,Credit Card,Returned
+1921,122,5019,Cookbook,Books,5,$19.72,5,30-05-2024,Net Banking,Delivered
+1922,384,5011,Denim Jeans,Clothing,3,$39.55,15,11-04-2026,Cash on Delivery,Shipped
+1923,497,5014,Coffee Maker,Home & Kitchen,2,$48.37,0,23-10-2023,UPI,Cancelled
+1924,192,5014,Coffee Maker,Home & Kitchen,3,$49.94,0,22-04-2026,Cash on Delivery,Delivered
+1925,494,5011,Denim Jeans,Clothing,5,$40.72,5,17-05-2025,UPI,Shipped
+1926,331,5012,Winter Jacket,Clothing,4,$98.07,20,23-01-2025,Net Banking,Delivered
+1927,328,5002,Bluetooth Headphones,Electronics,2,$44.98,10,02-06-2024,Cash on Delivery,Processing
+1928,5,5004,USB-C Cable,Electronics,5,$9.93,20,29-04-2024,PayPal,Processing
+1929,456,5010,Cotton T-Shirt,Clothing,1,$14.56,0,27-04-2024,Debit Card,Cancelled
+1930,422,5011,Denim Jeans,Clothing,4,$41.46,0,11-03-2023,PayPal,Cancelled
+1931,83,5014,Coffee Maker,Home & Kitchen,3,$47.99,20,15-05-2025,Cash on Delivery,Processing
+1932,417,5017,Table Lamp,Home & Kitchen,1,$27.78,5,21-12-2024,Net Banking,Processing
+1933,323,5015,Non-stick Pan,Home & Kitchen,1,$25.34,15,17-04-2023,PayPal,Shipped
+1934,295,5001,Wireless Mouse,Electronics,4,$15.68,15,14-02-2024,Credit Card,Delivered
+1935,426,5006,Yoga Mat,Sports,2,$23.03,15,23-11-2025,Cash on Delivery,Shipped
+1936,377,5020,Notebook Set,Stationery,4,$6.97,5,16-10-2024,Debit Card,Processing
+1937,44,5006,Yoga Mat,Sports,5,$21.52,20,01-11-2024,PayPal,Processing
+1938,115,5006,Yoga Mat,Sports,4,$22.85,20,11-02-2025,Credit Card,Delivered
+1939,102,5018,Novel - Fiction,Books,5,$12.56,0,13-04-2024,UPI,Shipped
+1940,77,5002,Bluetooth Headphones,Electronics,4,$45.96,5,19-06-2026,Credit Card,Processing
+1941,223,5006,Yoga Mat,Sports,5,$22.48,0,29-08-2023,PayPal,Cancelled
+1942,417,5004,USB-C Cable,Electronics,2,$10.44,0,21-02-2024,UPI,Processing
+1943,308,5016,Blender,Home & Kitchen,4,$36.24,5,24-09-2023,Debit Card,Processing
+1944,15,5007,Running Shoes,Sports,4,$66.90,5,05-01-2024,UPI,Processing
+1945,351,5008,Water Bottle,Sports,5,$12.34,0,12-07-2025,Cash on Delivery,Cancelled
+1946,499,5003,Laptop Stand,Electronics,1,$31.10,0,18-08-2025,Cash on Delivery,Cancelled
+1947,38,5007,Running Shoes,Sports,4,$65.63,15,16-05-2025,Credit Card,Returned
+1948,182,5002,Bluetooth Headphones,Electronics,1,$45.37,0,12-11-2024,Net Banking,Returned
+1949,155,5002,Bluetooth Headphones,Electronics,1,$46.04,10,03-06-2024,PayPal,Processing
+1950,87,5005,Mechanical Keyboard,Electronics,5,$77.43,10,26-03-2023,Net Banking,Cancelled
+1951,272,5011,Denim Jeans,Clothing,4,$39.26,0,28-09-2023,PayPal,Shipped
+1952,256,5009,Dumbbell Set,Sports,1,$94.30,0,03-10-2024,UPI,Processing
+1953,475,5014,Coffee Maker,Home & Kitchen,3,$51.64,10,23-06-2024,UPI,Returned
+1954,252,5011,Denim Jeans,Clothing,4,$40.94,0,04-12-2023,Debit Card,Returned
+1955,94,5015,Non-stick Pan,Home & Kitchen,1,$23.88,0,22-01-2024,Credit Card,Cancelled
+1956,459,5009,Dumbbell Set,Sports,2,$86.53,5,14-08-2025,PayPal,Delivered
+1957,58,5015,Non-stick Pan,Home & Kitchen,3,$24.88,5,22-02-2026,Cash on Delivery,Shipped
+1958,93,5004,USB-C Cable,Electronics,3,$10.36,0,11-07-2023,Debit Card,Returned
+1959,498,5009,Dumbbell Set,Sports,5,$90.74,0,14-04-2026,Credit Card,Returned
+1960,256,5019,Cookbook,Books,2,$18.51,0,02-05-2025,Cash on Delivery,Delivered
+1961,63,5011,Denim Jeans,Clothing,1,$41.91,15,05-08-2024,PayPal,Processing
+1962,236,5019,Cookbook,Books,1,$18.10,0,24-10-2024,Cash on Delivery,Cancelled
+1963,497,5015,Non-stick Pan,Home & Kitchen,3,$23.76,15,01-05-2026,Credit Card,Returned
+1964,25,5015,Non-stick Pan,Home & Kitchen,3,$24.27,0,11-03-2026,Cash on Delivery,Processing
+1965,196,5011,Denim Jeans,Clothing,1,$41.80,10,25-05-2023,Credit Card,Cancelled
+1966,46,5009,Dumbbell Set,Sports,2,$93.28,20,06-05-2024,Credit Card,Shipped
+1967,489,5006,Yoga Mat,Sports,4,$22.32,0,04-04-2025,Cash on Delivery,Shipped
+1968,413,5004,USB-C Cable,Electronics,3,$9.92,20,02-10-2025,UPI,Returned
+1969,103,5005,Mechanical Keyboard,Electronics,3,$78.93,20,16-07-2023,PayPal,Cancelled
+1970,47,5013,Sneakers,Clothing,4,$55.55,10,03-07-2024,PayPal,Processing
+1971,21,5020,Notebook Set,Stationery,2,$6.94,15,08-06-2025,Net Banking,Processing
+1972,332,5015,Non-stick Pan,Home & Kitchen,2,$25.06,5,14-11-2023,Net Banking,Delivered
+1973,245,5010,Cotton T-Shirt,Clothing,4,$15.60,0,14-06-2025,UPI,Shipped
+1974,292,5005,Mechanical Keyboard,Electronics,3,$79.41,10,24-05-2024,Credit Card,Returned
+1975,212,5003,Laptop Stand,Electronics,1,$30.02,0,17-11-2025,Credit Card,Cancelled
+1976,394,5019,Cookbook,Books,3,$19.15,0,28-12-2024,Net Banking,Delivered
+1977,202,5004,USB-C Cable,Electronics,4,$9.67,20,03-01-2024,Credit Card,Delivered
+1978,388,5014,Coffee Maker,Home & Kitchen,3,$51.11,10,04-10-2024,Cash on Delivery,Cancelled
+1979,109,5020,Notebook Set,Stationery,3,$7.21,20,30-11-2024,Debit Card,Delivered
+1980,3,5020,Notebook Set,Stationery,3,$7.01,5,06-08-2023,PayPal,Delivered
+1981,445,5001,Wireless Mouse,Electronics,2,$16.30,5,04-09-2025,Cash on Delivery,Returned
+1982,185,5016,Blender,Home & Kitchen,3,$36.65,20,20-06-2026,Cash on Delivery,Cancelled
+1983,58,5010,Cotton T-Shirt,Clothing,1,$14.26,0,14-09-2023,Credit Card,Shipped
+1984,124,5001,Wireless Mouse,Electronics,2,$15.42,15,12-09-2025,PayPal,Returned
+1985,243,5007,Running Shoes,Sports,1,$64.76,20,08-09-2024,PayPal,Delivered
+1986,494,5004,USB-C Cable,Electronics,2,$10.19,15,09-11-2023,PayPal,Cancelled
+1987,292,5001,Wireless Mouse,Electronics,4,$15.51,0,13-04-2026,PayPal,Delivered
+1988,222,5011,Denim Jeans,Clothing,1,$41.38,15,30-07-2023,PayPal,Cancelled
+1989,205,5019,Cookbook,Books,5,$18.11,0,09-02-2026,PayPal,Returned
+1990,271,5019,Cookbook,Books,5,$19.40,0,26-09-2025,Credit Card,Cancelled
+1991,332,5019,Cookbook,Books,3,$18.55,0,07-02-2026,PayPal,Cancelled
+1992,358,5004,USB-C Cable,Electronics,4,$9.84,15,29-06-2026,PayPal,Delivered
+1993,119,5006,Yoga Mat,Sports,3,$21.66,5,29-01-2024,Net Banking,Shipped
+1994,337,5019,Cookbook,Books,3,$19.64,20,18-05-2026,PayPal,Shipped
+1995,335,5010,Cotton T-Shirt,Clothing,4,$15.65,20,03-05-2025,Cash on Delivery,Processing
+1996,384,5016,Blender,Home & Kitchen,2,$34.23,0,27-06-2026,Credit Card,Cancelled
+1997,52,5005,Mechanical Keyboard,Electronics,2,$80.84,0,13-02-2024,PayPal,Cancelled
+1998,10,5010,Cotton T-Shirt,Clothing,2,$14.31,10,04-03-2024,UPI,Processing
+1999,258,5012,Winter Jacket,Clothing,2,$103.58,20,24-12-2023,Credit Card,Delivered
+2000,288,5011,Denim Jeans,Clothing,4,$38.90,10,22-08-2023,Debit Card,Cancelled

@@ -1,0 +1,21 @@
+ProductID,ProductName,Category,Brand,Price,StockQuantity,Rating,SupplierCountry
+5001,Wireless Mouse,Electronics,Logitech,$15.99,347,3.2,India
+5002,Bluetooth Headphones,Electronics,Sony,$45.50,145,3.4,USA
+5003,Laptop Stand,Electronics,AmazonBasics,$29.99,366,4.5,Vietnam
+5004,USB-C Cable,Electronics,Anker,$9.99,64,4.2,USA
+5005,Mechanical Keyboard,Electronics,Razer,$79.99,35,3.2,China
+5006,Yoga Mat,Sports,Decathlon,$22.00,278,4.2,Vietnam
+5007,Running Shoes,Sports,Nike,$65.00,121,4.4,Vietnam
+5008,Water Bottle,Sports,Milton,$12.50,234,3.4,Vietnam
+5009,Dumbbell Set,Sports,CAP Barbell,$89.99,162,4.6,USA
+5010,Cotton T-Shirt,Clothing,H&M,$14.99,408,4.6,Germany
+5011,Denim Jeans,Clothing,Levis,$39.99,194,3.6,China
+5012,Winter Jacket,Clothing,The North Face,$99.99,410,3.7,USA
+5013,Sneakers,Clothing,Adidas,$55.00,214,3.2,India
+5014,Coffee Maker,Home & Kitchen,Philips,$49.99,329,3.5,USA
+5015,Non-stick Pan,Home & Kitchen,Prestige,$24.99,393,3.9,USA
+5016,Blender,Home & Kitchen,Ninja,$34.99,492,3.8,Vietnam
+5017,Table Lamp,Home & Kitchen,IKEA,$27.50,170,4.7,Vietnam
+5018,Novel - Fiction,Books,Penguin Books,$11.99,473,4.7,Vietnam
+5019,Cookbook,Books,HarperCollins,$18.99,118,4.4,USA
+5020,Notebook Set,Stationery,Moleskine,$6.99,358,3.5,India
